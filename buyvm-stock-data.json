@@ -554,6 +554,14 @@
   {
     "available": true,
     "grp_location": null,
+    "grp_type": "Addon Licenses",
+    "name": "CloudLinux  License",
+    "pid": "1435",
+    "price": "$10.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": null,
     "grp_type": "Free Software Licenses",
     "name": "DirectAdmin License",
     "pid": "1444",
