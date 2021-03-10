@@ -552,7 +552,7 @@
     "price": "$50.00 USD/mo"
   },
   {
-    "available": true,
+    "available": false,
     "grp_location": null,
     "grp_type": "Addon Licenses",
     "name": "CloudLinux  License",
@@ -608,7 +608,7 @@
     "price": "$100.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": null,
     "grp_type": "Networking",
     "name": "DDOS Protected BGP Session",
