@@ -272,7 +272,7 @@
     "price": "$1.25 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "Las Vegas",
     "grp_type": "Block Storage Slabs",
     "name": "LV Block Storage Slab - 512GB",
@@ -614,13 +614,5 @@
     "name": "DDOS Protected BGP Session",
     "pid": "1498",
     "price": "$50.00 USD/mo"
-  },
-  {
-    "available": true,
-    "grp_location": null,
-    "grp_type": "Networking",
-    "name": "Anycast IP DDOS Protection",
-    "pid": "1373",
-    "price": "$5.00 USD/mo"
   }
 ]
