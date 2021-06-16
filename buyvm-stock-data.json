@@ -1,6 +1,94 @@
 [
   {
     "available": false,
+    "grp_location": "Miami",
+    "grp_type": "AMD RYZEN KVM",
+    "name": "MIA RYZEN KVM 512",
+    "pid": "1500",
+    "price": "$2.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Miami",
+    "grp_type": "AMD RYZEN KVM",
+    "name": "MIA RYZEN KVM 1GB",
+    "pid": "1501",
+    "price": "$3.50 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Miami",
+    "grp_type": "AMD RYZEN KVM",
+    "name": "MIA RYZEN KVM 2GB",
+    "pid": "1502",
+    "price": "$7.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Miami",
+    "grp_type": "AMD RYZEN KVM",
+    "name": "MIA RYZEN KVM 4GB",
+    "pid": "1503",
+    "price": "$15.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Miami",
+    "grp_type": "AMD RYZEN KVM",
+    "name": "MIA RYZEN KVM 8GB",
+    "pid": "1504",
+    "price": "$30.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Miami",
+    "grp_type": "AMD RYZEN KVM",
+    "name": "MIA RYZEN KVM 12GB",
+    "pid": "1505",
+    "price": "$45.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Miami",
+    "grp_type": "AMD RYZEN KVM",
+    "name": "MIA RYZEN KVM 16GB",
+    "pid": "1506",
+    "price": "$60.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Miami",
+    "grp_type": "AMD RYZEN KVM",
+    "name": "MIA RYZEN KVM 20GB",
+    "pid": "1507",
+    "price": "$75.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Miami",
+    "grp_type": "AMD RYZEN KVM",
+    "name": "MIA RYZEN KVM 24GB",
+    "pid": "1508",
+    "price": "$90.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Miami",
+    "grp_type": "AMD RYZEN KVM",
+    "name": "MIA RYZEN KVM 28GB",
+    "pid": "1509",
+    "price": "$105.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Miami",
+    "grp_type": "AMD RYZEN KVM",
+    "name": "MIA RYZEN KVM 32GB",
+    "pid": "1510",
+    "price": "$120.00 USD/mo"
+  },
+  {
+    "available": false,
     "grp_location": "Las Vegas",
     "grp_type": "AMD RYZEN KVM",
     "name": "LV RYZEN KVM 512MB",
