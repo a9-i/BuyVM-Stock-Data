@@ -688,7 +688,7 @@
     "price": "$1.00 USD/mo"
   },
   {
-    "available": true,
+    "available": false,
     "grp_location": null,
     "grp_type": "Networking",
     "name": "/24 IPv4 IP Address Lease",
