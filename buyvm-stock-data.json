@@ -456,7 +456,7 @@
     "price": "$1.25 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "New York",
     "grp_type": "Block Storage Slabs",
     "name": "NY Block Storage Slab - 512GB",
@@ -472,7 +472,7 @@
     "price": "$5.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "New York",
     "grp_type": "Block Storage Slabs",
     "name": "NY Block Storage Slab - 2TB",
@@ -480,7 +480,7 @@
     "price": "$10.00 USD/mo"
   },
   {
-    "available": true,
+    "available": false,
     "grp_location": "New York",
     "grp_type": "Block Storage Slabs",
     "name": "NY Block Storage Slab - 3TB",
@@ -488,7 +488,7 @@
     "price": "$15.00 USD/mo"
   },
   {
-    "available": true,
+    "available": false,
     "grp_location": "New York",
     "grp_type": "Block Storage Slabs",
     "name": "NY Block Storage Slab - 4TB",
@@ -544,7 +544,7 @@
     "price": "$50.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "Luxembourg",
     "grp_type": "Block Storage Slabs",
     "name": "LU Block Storage Slab - 256GB",
@@ -552,7 +552,7 @@
     "price": "$1.25 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "Luxembourg",
     "grp_type": "Block Storage Slabs",
     "name": "LU Block Storage Slab - 512GB",
@@ -560,7 +560,7 @@
     "price": "$2.50 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "Luxembourg",
     "grp_type": "Block Storage Slabs",
     "name": "LU Block Storage Slab - 1TB",
@@ -568,7 +568,7 @@
     "price": "$5.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "Luxembourg",
     "grp_type": "Block Storage Slabs",
     "name": "LU Block Storage Slab - 2TB",
@@ -576,7 +576,7 @@
     "price": "$10.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "Luxembourg",
     "grp_type": "Block Storage Slabs",
     "name": "LU Block Storage Slab - 3TB",
@@ -584,7 +584,7 @@
     "price": "$15.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "Luxembourg",
     "grp_type": "Block Storage Slabs",
     "name": "LU Block Storage Slab - 4TB",
@@ -592,7 +592,7 @@
     "price": "$20.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "Luxembourg",
     "grp_type": "Block Storage Slabs",
     "name": "LU Block Storage Slab - 5TB",
@@ -600,7 +600,7 @@
     "price": "$25.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "Luxembourg",
     "grp_type": "Block Storage Slabs",
     "name": "LU Block Storage Slab - 6TB",
@@ -608,7 +608,7 @@
     "price": "$30.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "Luxembourg",
     "grp_type": "Block Storage Slabs",
     "name": "LU Block Storage Slab - 7TB",
@@ -616,7 +616,7 @@
     "price": "$35.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "Luxembourg",
     "grp_type": "Block Storage Slabs",
     "name": "LU Block Storage Slab - 8TB",
@@ -624,7 +624,7 @@
     "price": "$40.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "Luxembourg",
     "grp_type": "Block Storage Slabs",
     "name": "LU Block Storage Slab - 9TB",
@@ -632,7 +632,7 @@
     "price": "$45.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "Luxembourg",
     "grp_type": "Block Storage Slabs",
     "name": "LU Block Storage Slab - 10TB",
