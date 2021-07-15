@@ -641,6 +641,102 @@
   },
   {
     "available": true,
+    "grp_location": "Miami",
+    "grp_type": "Block Storage Slabs",
+    "name": "MIA Block Storage Slab - 256GB",
+    "pid": "1511",
+    "price": "$1.25 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Miami",
+    "grp_type": "Block Storage Slabs",
+    "name": "MIA Block Storage Slab - 512GB",
+    "pid": "1512",
+    "price": "$2.50 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Miami",
+    "grp_type": "Block Storage Slabs",
+    "name": "MIA Block Storage Slab - 1TB",
+    "pid": "1513",
+    "price": "$5.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Miami",
+    "grp_type": "Block Storage Slabs",
+    "name": "MIA Block Storage Slab - 2TB",
+    "pid": "1514",
+    "price": "$10.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Miami",
+    "grp_type": "Block Storage Slabs",
+    "name": "MIA Block Storage Slab - 3TB",
+    "pid": "1515",
+    "price": "$15.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Miami",
+    "grp_type": "Block Storage Slabs",
+    "name": "MIA Block Storage Slab - 4TB",
+    "pid": "1516",
+    "price": "$20.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Miami",
+    "grp_type": "Block Storage Slabs",
+    "name": "MIA Block Storage Slab - 5TB",
+    "pid": "1517",
+    "price": "$25.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Miami",
+    "grp_type": "Block Storage Slabs",
+    "name": "MIA Block Storage Slab - 6TB",
+    "pid": "1518",
+    "price": "$30.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Miami",
+    "grp_type": "Block Storage Slabs",
+    "name": "MIA Block Storage Slab - 7TB",
+    "pid": "1519",
+    "price": "$35.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Miami",
+    "grp_type": "Block Storage Slabs",
+    "name": "MIA Block Storage Slab - 8TB",
+    "pid": "1520",
+    "price": "$40.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Miami",
+    "grp_type": "Block Storage Slabs",
+    "name": "MIA Block Storage Slab - 9TB",
+    "pid": "1521",
+    "price": "$45.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Miami",
+    "grp_type": "Block Storage Slabs",
+    "name": "MIA Block Storage Slab - 10TB",
+    "pid": "1522",
+    "price": "$50.00 USD/mo"
+  },
+  {
+    "available": true,
     "grp_location": null,
     "grp_type": "Addon Licenses",
     "name": "CloudLinux  License",
