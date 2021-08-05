@@ -272,7 +272,7 @@
     "price": "$2.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "Luxembourg",
     "grp_type": "AMD RYZEN KVM",
     "name": "LU RYZEN KVM 1GB",
@@ -784,7 +784,7 @@
     "price": "$1.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": null,
     "grp_type": "Networking",
     "name": "/24 IPv4 IP Address Lease",
