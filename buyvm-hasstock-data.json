@@ -734,5 +734,21 @@
     "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1522.json",
     "link": "https://my.frantech.ca/aff.php?aff=3263&pid=1522"
+  },
+  "1524": {
+    "id": 1524,
+    "name": "STREAM RYZEN 1GB",
+    "quantity": 0,
+    "hasStock": true,
+    "apiUrl": "https://buyvm.hasstock.net/api/package/1524.json",
+    "link": "https://my.frantech.ca/aff.php?aff=3263&pid=1524"
+  },
+  "1526": {
+    "id": 1526,
+    "name": "STREAM RYZEN 4GB",
+    "quantity": 0,
+    "hasStock": true,
+    "apiUrl": "https://buyvm.hasstock.net/api/package/1526.json",
+    "link": "https://my.frantech.ca/aff.php?aff=3263&pid=1526"
   }
 }
