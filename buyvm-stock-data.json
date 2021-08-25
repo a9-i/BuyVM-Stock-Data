@@ -792,6 +792,14 @@
     "price": "$125.00 USD/mo"
   },
   {
+    "available": false,
+    "grp_location": null,
+    "grp_type": "Networking",
+    "name": "/48 IPv6 IP Address Lease",
+    "pid": "1527",
+    "price": "$0.00 USD/mo"
+  },
+  {
     "available": true,
     "grp_location": null,
     "grp_type": "Networking",
