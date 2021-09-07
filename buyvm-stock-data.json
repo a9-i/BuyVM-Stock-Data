@@ -766,5 +766,45 @@
     "name": "Softaculous License",
     "pid": "1448",
     "price": "$0.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": null,
+    "grp_type": "Offloaded SQL",
+    "name": "Las Vegas Offloaded SQL",
+    "pid": "1455",
+    "price": "$1.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": null,
+    "grp_type": "Offloaded SQL",
+    "name": "New York Offloaded SQL",
+    "pid": "114",
+    "price": "$1.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": null,
+    "grp_type": "Networking",
+    "name": "/24 IPv4 IP Address Lease",
+    "pid": "1401",
+    "price": "$125.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": null,
+    "grp_type": "Networking",
+    "name": "/48 IPv6 IP Address Lease",
+    "pid": "1527",
+    "price": "$0.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": null,
+    "grp_type": "Networking",
+    "name": "DDOS Protected BGP Session",
+    "pid": "1498",
+    "price": "$50.00 USD/mo"
   }
 ]
