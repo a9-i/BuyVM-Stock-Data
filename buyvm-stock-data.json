@@ -96,7 +96,7 @@
     "price": "$2.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "New York",
     "grp_type": "AMD RYZEN KVM",
     "name": "NY RYZEN KVM 1GB",
@@ -112,7 +112,7 @@
     "price": "$7.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "New York",
     "grp_type": "AMD RYZEN KVM",
     "name": "NY RYZEN KVM 4GB",
@@ -136,7 +136,7 @@
     "price": "$45.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "New York",
     "grp_type": "AMD RYZEN KVM",
     "name": "NY RYZEN KVM 16GB",
@@ -144,7 +144,7 @@
     "price": "$60.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "New York",
     "grp_type": "AMD RYZEN KVM",
     "name": "NY RYZEN KVM 20GB",
@@ -152,7 +152,7 @@
     "price": "$75.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "New York",
     "grp_type": "AMD RYZEN KVM",
     "name": "NY RYZEN KVM 24GB",
@@ -160,7 +160,7 @@
     "price": "$90.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "New York",
     "grp_type": "AMD RYZEN KVM",
     "name": "NY RYZEN KVM 28GB",
@@ -168,7 +168,7 @@
     "price": "$105.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "New York",
     "grp_type": "AMD RYZEN KVM",
     "name": "NY RYZEN KVM 32GB",
@@ -184,7 +184,7 @@
     "price": "$2.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "Miami",
     "grp_type": "AMD RYZEN KVM",
     "name": "MIA RYZEN KVM 1GB",
@@ -192,7 +192,7 @@
     "price": "$3.50 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "Miami",
     "grp_type": "AMD RYZEN KVM",
     "name": "MIA RYZEN KVM 2GB",
@@ -200,7 +200,7 @@
     "price": "$7.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "Miami",
     "grp_type": "AMD RYZEN KVM",
     "name": "MIA RYZEN KVM 4GB",
@@ -448,7 +448,7 @@
     "price": "$50.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "New York",
     "grp_type": "Block Storage Slabs",
     "name": "NY Block Storage Slab - 256GB",
@@ -456,7 +456,7 @@
     "price": "$1.25 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "New York",
     "grp_type": "Block Storage Slabs",
     "name": "NY Block Storage Slab - 512GB",
@@ -464,7 +464,7 @@
     "price": "$2.50 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "New York",
     "grp_type": "Block Storage Slabs",
     "name": "NY Block Storage Slab - 1TB",
