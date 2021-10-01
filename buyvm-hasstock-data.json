@@ -162,7 +162,7 @@
   "1423": {
     "id": 1423,
     "name": "LU RYZEN KVM 1GB",
-    "quantity": 5,
+    "quantity": 1,
     "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1423.json",
     "link": "https://my.frantech.ca/aff.php?aff=3263&pid=1423"
@@ -362,8 +362,8 @@
   "1473": {
     "id": 1473,
     "name": "NY Block Storage Slab - 256GB",
-    "quantity": 1,
-    "hasStock": true,
+    "quantity": 0,
+    "hasStock": false,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1473.json",
     "link": "https://my.frantech.ca/aff.php?aff=3263&pid=1473"
   },
