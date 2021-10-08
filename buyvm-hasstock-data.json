@@ -378,8 +378,8 @@
   "1475": {
     "id": 1475,
     "name": "NY Block Storage Slab - 1TB",
-    "quantity": 1,
-    "hasStock": true,
+    "quantity": 0,
+    "hasStock": false,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1475.json",
     "link": "https://my.frantech.ca/aff.php?aff=3263&pid=1475"
   },
@@ -674,8 +674,8 @@
   "1515": {
     "id": 1515,
     "name": "MIA Block Storage Slab - 3TB",
-    "quantity": 1,
-    "hasStock": true,
+    "quantity": 0,
+    "hasStock": false,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1515.json",
     "link": "https://my.frantech.ca/aff.php?aff=3263&pid=1515"
   },
