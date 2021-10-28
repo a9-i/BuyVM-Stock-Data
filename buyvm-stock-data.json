@@ -5,7 +5,7 @@
     "grp_type": "AMD RYZEN KVM",
     "name": "LV RYZEN KVM 512MB",
     "pid": "1439",
-    "price": "$2.00 USD/mo"
+    "price": "$4.00 USD/mo"
   },
   {
     "available": true,
@@ -13,7 +13,7 @@
     "grp_type": "AMD RYZEN KVM",
     "name": "LV RYZEN KVM 1GB",
     "pid": "1411",
-    "price": "$3.50 USD/mo"
+    "price": "$5.50 USD/mo"
   },
   {
     "available": true,
@@ -21,7 +21,7 @@
     "grp_type": "AMD RYZEN KVM",
     "name": "LV RYZEN KVM 2GB",
     "pid": "1402",
-    "price": "$7.00 USD/mo"
+    "price": "$9.00 USD/mo"
   },
   {
     "available": false,
@@ -29,7 +29,7 @@
     "grp_type": "AMD RYZEN KVM",
     "name": "LV RYZEN KVM 4GB",
     "pid": "1403",
-    "price": "$15.00 USD/mo"
+    "price": "$17.00 USD/mo"
   },
   {
     "available": false,
@@ -37,7 +37,7 @@
     "grp_type": "AMD RYZEN KVM",
     "name": "LV RYZEN KVM 8GB",
     "pid": "1404",
-    "price": "$30.00 USD/mo"
+    "price": "$32.00 USD/mo"
   },
   {
     "available": false,
@@ -45,7 +45,7 @@
     "grp_type": "AMD RYZEN KVM",
     "name": "LV RYZEN KVM 12GB",
     "pid": "1405",
-    "price": "$45.00 USD/mo"
+    "price": "$47.00 USD/mo"
   },
   {
     "available": false,
@@ -53,7 +53,7 @@
     "grp_type": "AMD RYZEN KVM",
     "name": "LV RYZEN KVM 16GB",
     "pid": "1406",
-    "price": "$60.00 USD/mo"
+    "price": "$62.00 USD/mo"
   },
   {
     "available": false,
@@ -61,7 +61,7 @@
     "grp_type": "AMD RYZEN KVM",
     "name": "LV RYZEN KVM 20GB",
     "pid": "1407",
-    "price": "$75.00 USD/mo"
+    "price": "$77.00 USD/mo"
   },
   {
     "available": false,
@@ -69,7 +69,7 @@
     "grp_type": "AMD RYZEN KVM",
     "name": "LV RYZEN KVM 24GB",
     "pid": "1408",
-    "price": "$90.00 USD/mo"
+    "price": "$92.00 USD/mo"
   },
   {
     "available": false,
@@ -77,7 +77,7 @@
     "grp_type": "AMD RYZEN KVM",
     "name": "LV RYZEN KVM 28GB",
     "pid": "1409",
-    "price": "$105.00 USD/mo"
+    "price": "$107.00 USD/mo"
   },
   {
     "available": false,
@@ -85,7 +85,7 @@
     "grp_type": "AMD RYZEN KVM",
     "name": "LV RYZEN KVM 32GB",
     "pid": "1410",
-    "price": "$120.00 USD/mo"
+    "price": "$122.00 USD/mo"
   },
   {
     "available": true,
@@ -93,7 +93,7 @@
     "grp_type": "AMD RYZEN KVM",
     "name": "NY RYZEN KVM 512MB",
     "pid": "1440",
-    "price": "$2.00 USD/mo"
+    "price": "$4.00 USD/mo"
   },
   {
     "available": true,
@@ -101,7 +101,7 @@
     "grp_type": "AMD RYZEN KVM",
     "name": "NY RYZEN KVM 1GB",
     "pid": "1413",
-    "price": "$3.50 USD/mo"
+    "price": "$5.50 USD/mo"
   },
   {
     "available": false,
@@ -109,7 +109,7 @@
     "grp_type": "AMD RYZEN KVM",
     "name": "NY RYZEN KVM 2GB",
     "pid": "1414",
-    "price": "$7.00 USD/mo"
+    "price": "$9.00 USD/mo"
   },
   {
     "available": false,
@@ -117,7 +117,7 @@
     "grp_type": "AMD RYZEN KVM",
     "name": "NY RYZEN KVM 4GB",
     "pid": "1415",
-    "price": "$15.00 USD/mo"
+    "price": "$17.00 USD/mo"
   },
   {
     "available": false,
@@ -125,7 +125,7 @@
     "grp_type": "AMD RYZEN KVM",
     "name": "NY RYZEN KVM 8GB",
     "pid": "1416",
-    "price": "$30.00 USD/mo"
+    "price": "$32.00 USD/mo"
   },
   {
     "available": false,
@@ -133,7 +133,7 @@
     "grp_type": "AMD RYZEN KVM",
     "name": "NY RYZEN KVM 12GB",
     "pid": "1417",
-    "price": "$45.00 USD/mo"
+    "price": "$47.00 USD/mo"
   },
   {
     "available": false,
@@ -141,7 +141,7 @@
     "grp_type": "AMD RYZEN KVM",
     "name": "NY RYZEN KVM 16GB",
     "pid": "1418",
-    "price": "$60.00 USD/mo"
+    "price": "$62.00 USD/mo"
   },
   {
     "available": false,
@@ -149,7 +149,7 @@
     "grp_type": "AMD RYZEN KVM",
     "name": "NY RYZEN KVM 20GB",
     "pid": "1419",
-    "price": "$75.00 USD/mo"
+    "price": "$77.00 USD/mo"
   },
   {
     "available": false,
@@ -157,7 +157,7 @@
     "grp_type": "AMD RYZEN KVM",
     "name": "NY RYZEN KVM 24GB",
     "pid": "1420",
-    "price": "$90.00 USD/mo"
+    "price": "$92.00 USD/mo"
   },
   {
     "available": false,
@@ -165,7 +165,7 @@
     "grp_type": "AMD RYZEN KVM",
     "name": "NY RYZEN KVM 28GB",
     "pid": "1421",
-    "price": "$105.00 USD/mo"
+    "price": "$107.00 USD/mo"
   },
   {
     "available": false,
@@ -173,7 +173,7 @@
     "grp_type": "AMD RYZEN KVM",
     "name": "NY RYZEN KVM 32GB",
     "pid": "1422",
-    "price": "$120.00 USD/mo"
+    "price": "$122.00 USD/mo"
   },
   {
     "available": true,
@@ -181,7 +181,7 @@
     "grp_type": "AMD RYZEN KVM",
     "name": "MIA RYZEN KVM 512MB",
     "pid": "1500",
-    "price": "$2.00 USD/mo"
+    "price": "$4.00 USD/mo"
   },
   {
     "available": true,
@@ -189,7 +189,7 @@
     "grp_type": "AMD RYZEN KVM",
     "name": "MIA RYZEN KVM 1GB",
     "pid": "1501",
-    "price": "$3.50 USD/mo"
+    "price": "$5.50 USD/mo"
   },
   {
     "available": false,
@@ -197,7 +197,7 @@
     "grp_type": "AMD RYZEN KVM",
     "name": "MIA RYZEN KVM 2GB",
     "pid": "1502",
-    "price": "$7.00 USD/mo"
+    "price": "$9.00 USD/mo"
   },
   {
     "available": false,
@@ -205,7 +205,7 @@
     "grp_type": "AMD RYZEN KVM",
     "name": "MIA RYZEN KVM 4GB",
     "pid": "1503",
-    "price": "$15.00 USD/mo"
+    "price": "$17.00 USD/mo"
   },
   {
     "available": false,
@@ -213,7 +213,7 @@
     "grp_type": "AMD RYZEN KVM",
     "name": "MIA RYZEN KVM 8GB",
     "pid": "1504",
-    "price": "$30.00 USD/mo"
+    "price": "$32.00 USD/mo"
   },
   {
     "available": false,
@@ -221,7 +221,7 @@
     "grp_type": "AMD RYZEN KVM",
     "name": "MIA RYZEN KVM 12GB",
     "pid": "1505",
-    "price": "$45.00 USD/mo"
+    "price": "$47.00 USD/mo"
   },
   {
     "available": false,
@@ -229,7 +229,7 @@
     "grp_type": "AMD RYZEN KVM",
     "name": "MIA RYZEN KVM 16GB",
     "pid": "1506",
-    "price": "$60.00 USD/mo"
+    "price": "$62.00 USD/mo"
   },
   {
     "available": false,
@@ -237,7 +237,7 @@
     "grp_type": "AMD RYZEN KVM",
     "name": "MIA RYZEN KVM 20GB",
     "pid": "1507",
-    "price": "$75.00 USD/mo"
+    "price": "$77.00 USD/mo"
   },
   {
     "available": false,
@@ -245,7 +245,7 @@
     "grp_type": "AMD RYZEN KVM",
     "name": "MIA RYZEN KVM 24GB",
     "pid": "1508",
-    "price": "$90.00 USD/mo"
+    "price": "$92.00 USD/mo"
   },
   {
     "available": false,
@@ -253,7 +253,7 @@
     "grp_type": "AMD RYZEN KVM",
     "name": "MIA RYZEN KVM 28GB",
     "pid": "1509",
-    "price": "$105.00 USD/mo"
+    "price": "$107.00 USD/mo"
   },
   {
     "available": false,
@@ -261,7 +261,7 @@
     "grp_type": "AMD RYZEN KVM",
     "name": "MIA RYZEN KVM 32GB",
     "pid": "1510",
-    "price": "$120.00 USD/mo"
+    "price": "$122.00 USD/mo"
   },
   {
     "available": true,
@@ -269,7 +269,7 @@
     "grp_type": "AMD RYZEN KVM",
     "name": "LU RYZEN KVM 512MB",
     "pid": "1441",
-    "price": "$2.00 USD/mo"
+    "price": "$4.00 USD/mo"
   },
   {
     "available": true,
@@ -277,7 +277,7 @@
     "grp_type": "AMD RYZEN KVM",
     "name": "LU RYZEN KVM 1GB",
     "pid": "1423",
-    "price": "$3.50 USD/mo"
+    "price": "$5.50 USD/mo"
   },
   {
     "available": false,
@@ -285,7 +285,7 @@
     "grp_type": "AMD RYZEN KVM",
     "name": "LU RYZEN KVM 2GB",
     "pid": "1424",
-    "price": "$7.00 USD/mo"
+    "price": "$9.00 USD/mo"
   },
   {
     "available": false,
@@ -293,7 +293,7 @@
     "grp_type": "AMD RYZEN KVM",
     "name": "LU RYZEN KVM 4GB",
     "pid": "1425",
-    "price": "$15.00 USD/mo"
+    "price": "$17.00 USD/mo"
   },
   {
     "available": false,
@@ -301,7 +301,7 @@
     "grp_type": "AMD RYZEN KVM",
     "name": "LU RYZEN KVM 8GB",
     "pid": "1426",
-    "price": "$30.00 USD/mo"
+    "price": "$32.00 USD/mo"
   },
   {
     "available": false,
@@ -309,7 +309,7 @@
     "grp_type": "AMD RYZEN KVM",
     "name": "LU RYZEN KVM 12GB",
     "pid": "1427",
-    "price": "$45.00 USD/mo"
+    "price": "$47.00 USD/mo"
   },
   {
     "available": false,
@@ -317,7 +317,7 @@
     "grp_type": "AMD RYZEN KVM",
     "name": "LU RYZEN KVM 16GB",
     "pid": "1428",
-    "price": "$60.00 USD/mo"
+    "price": "$62.00 USD/mo"
   },
   {
     "available": false,
@@ -325,7 +325,7 @@
     "grp_type": "AMD RYZEN KVM",
     "name": "LU RYZEN KVM 20GB",
     "pid": "1429",
-    "price": "$75.00 USD/mo"
+    "price": "$77.00 USD/mo"
   },
   {
     "available": false,
@@ -333,7 +333,7 @@
     "grp_type": "AMD RYZEN KVM",
     "name": "LU RYZEN KVM 24GB",
     "pid": "1430",
-    "price": "$90.00 USD/mo"
+    "price": "$92.00 USD/mo"
   },
   {
     "available": false,
@@ -341,7 +341,7 @@
     "grp_type": "AMD RYZEN KVM",
     "name": "LU RYZEN KVM 28GB",
     "pid": "1431",
-    "price": "$105.00 USD/mo"
+    "price": "$107.00 USD/mo"
   },
   {
     "available": false,
@@ -349,7 +349,7 @@
     "grp_type": "AMD RYZEN KVM",
     "name": "LU RYZEN KVM 32GB",
     "pid": "1432",
-    "price": "$120.00 USD/mo"
+    "price": "$122.00 USD/mo"
   },
   {
     "available": true,
