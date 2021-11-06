@@ -250,7 +250,7 @@
   "1440": {
     "id": 1440,
     "name": "NY RYZEN KVM 512MB",
-    "quantity": 15,
+    "quantity": 5,
     "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1440.json",
     "link": "https://my.frantech.ca/aff.php?aff=3263&pid=1440"
@@ -466,7 +466,7 @@
   "1487": {
     "id": 1487,
     "name": "LU Block Storage Slab - 512GB",
-    "quantity": 2,
+    "quantity": 1,
     "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1487.json",
     "link": "https://my.frantech.ca/aff.php?aff=3263&pid=1487"
@@ -554,7 +554,7 @@
   "1500": {
     "id": 1500,
     "name": "MIA RYZEN KVM 512MB",
-    "quantity": 17,
+    "quantity": 7,
     "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1500.json",
     "link": "https://my.frantech.ca/aff.php?aff=3263&pid=1500"
