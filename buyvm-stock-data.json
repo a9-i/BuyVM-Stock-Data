@@ -248,7 +248,7 @@
     "price": "$3.50 USD/mo"
   },
   {
-    "available": true,
+    "available": false,
     "grp_location": "Luxembourg",
     "grp_type": "AMD RYZEN KVM",
     "name": "LU RYZEN KVM 2GB",
@@ -256,7 +256,7 @@
     "price": "$7.00 USD/mo"
   },
   {
-    "available": true,
+    "available": false,
     "grp_location": "Luxembourg",
     "grp_type": "AMD RYZEN KVM",
     "name": "LU RYZEN KVM 4GB",
