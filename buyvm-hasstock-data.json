@@ -123,7 +123,7 @@
     "id": 1418,
     "name": "NY RYZEN KVM 16GB",
     "quantity": 0,
-    "hasStock": true,
+    "hasStock": false,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1418.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1418"
   },
@@ -131,7 +131,7 @@
     "id": 1419,
     "name": "NY RYZEN KVM 20GB",
     "quantity": 0,
-    "hasStock": true,
+    "hasStock": false,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1419.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1419"
   },
@@ -139,7 +139,7 @@
     "id": 1420,
     "name": "NY RYZEN KVM 24GB",
     "quantity": 0,
-    "hasStock": true,
+    "hasStock": false,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1420.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1420"
   },
@@ -147,7 +147,7 @@
     "id": 1421,
     "name": "NY RYZEN KVM 28GB",
     "quantity": 0,
-    "hasStock": true,
+    "hasStock": false,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1421.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1421"
   },
@@ -155,31 +155,31 @@
     "id": 1422,
     "name": "NY RYZEN KVM 32GB",
     "quantity": 0,
-    "hasStock": true,
+    "hasStock": false,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1422.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1422"
   },
   "1423": {
     "id": 1423,
     "name": "LU RYZEN KVM 1GB",
-    "quantity": 0,
-    "hasStock": false,
+    "quantity": 10,
+    "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1423.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1423"
   },
   "1424": {
     "id": 1424,
     "name": "LU RYZEN KVM 2GB",
-    "quantity": 0,
-    "hasStock": false,
+    "quantity": 5,
+    "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1424.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1424"
   },
   "1425": {
     "id": 1425,
     "name": "LU RYZEN KVM 4GB",
-    "quantity": 0,
-    "hasStock": false,
+    "quantity": 2,
+    "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1425.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1425"
   },
