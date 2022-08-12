@@ -328,7 +328,7 @@
     "price": "$1.25 USD/mo"
   },
   {
-    "available": true,
+    "available": false,
     "grp_location": "Las Vegas",
     "grp_type": "Block Storage Slabs",
     "name": "LV Block Storage Slab - 512GB",
@@ -336,7 +336,7 @@
     "price": "$2.50 USD/mo"
   },
   {
-    "available": true,
+    "available": false,
     "grp_location": "Las Vegas",
     "grp_type": "Block Storage Slabs",
     "name": "LV Block Storage Slab - 1TB",
@@ -344,7 +344,7 @@
     "price": "$5.00 USD/mo"
   },
   {
-    "available": true,
+    "available": false,
     "grp_location": "Las Vegas",
     "grp_type": "Block Storage Slabs",
     "name": "LV Block Storage Slab - 2TB",
@@ -384,7 +384,7 @@
     "price": "$30.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "Las Vegas",
     "grp_type": "Block Storage Slabs",
     "name": "LV Block Storage Slab - 7TB",
@@ -520,7 +520,7 @@
     "price": "$1.25 USD/mo"
   },
   {
-    "available": true,
+    "available": false,
     "grp_location": "Miami",
     "grp_type": "Block Storage Slabs",
     "name": "MIA Block Storage Slab - 512GB",
@@ -536,7 +536,7 @@
     "price": "$5.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "Miami",
     "grp_type": "Block Storage Slabs",
     "name": "MIA Block Storage Slab - 2TB",
