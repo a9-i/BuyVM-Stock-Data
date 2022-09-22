@@ -339,7 +339,7 @@
     "id": 1473,
     "name": "NY Block Storage Slab - 256GB",
     "quantity": 0,
-    "hasStock": false,
+    "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1473.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1473"
   },
@@ -347,7 +347,7 @@
     "id": 1474,
     "name": "NY Block Storage Slab - 512GB",
     "quantity": 0,
-    "hasStock": false,
+    "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1474.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1474"
   },
@@ -355,7 +355,7 @@
     "id": 1475,
     "name": "NY Block Storage Slab - 1TB",
     "quantity": 0,
-    "hasStock": false,
+    "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1475.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1475"
   },
@@ -363,7 +363,7 @@
     "id": 1476,
     "name": "NY Block Storage Slab - 2TB",
     "quantity": 0,
-    "hasStock": false,
+    "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1476.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1476"
   },
@@ -371,7 +371,7 @@
     "id": 1477,
     "name": "NY Block Storage Slab - 3TB",
     "quantity": 0,
-    "hasStock": false,
+    "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1477.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1477"
   },
@@ -379,7 +379,7 @@
     "id": 1478,
     "name": "NY Block Storage Slab - 4TB",
     "quantity": 0,
-    "hasStock": false,
+    "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1478.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1478"
   },
@@ -387,7 +387,7 @@
     "id": 1479,
     "name": "NY Block Storage Slab - 5TB",
     "quantity": 0,
-    "hasStock": false,
+    "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1479.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1479"
   },
@@ -395,7 +395,7 @@
     "id": 1480,
     "name": "NY Block Storage Slab - 6TB",
     "quantity": 0,
-    "hasStock": false,
+    "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1480.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1480"
   },
@@ -403,7 +403,7 @@
     "id": 1481,
     "name": "NY Block Storage Slab - 7TB",
     "quantity": 0,
-    "hasStock": false,
+    "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1481.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1481"
   },
@@ -411,7 +411,7 @@
     "id": 1482,
     "name": "NY Block Storage Slab - 8TB",
     "quantity": 0,
-    "hasStock": false,
+    "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1482.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1482"
   },
@@ -419,7 +419,7 @@
     "id": 1483,
     "name": "NY Block Storage Slab - 9TB",
     "quantity": 0,
-    "hasStock": false,
+    "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1483.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1483"
   },
@@ -427,7 +427,7 @@
     "id": 1484,
     "name": "NY Block Storage Slab - 10TB",
     "quantity": 0,
-    "hasStock": false,
+    "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1484.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1484"
   },
