@@ -507,7 +507,7 @@
     "id": 1495,
     "name": "LU Block Storage Slab - 8TB",
     "quantity": 0,
-    "hasStock": false,
+    "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1495.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1495"
   },
@@ -515,7 +515,7 @@
     "id": 1496,
     "name": "LU Block Storage Slab - 9TB",
     "quantity": 0,
-    "hasStock": false,
+    "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1496.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1496"
   },
@@ -523,7 +523,7 @@
     "id": 1497,
     "name": "LU Block Storage Slab - 10TB",
     "quantity": 0,
-    "hasStock": false,
+    "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1497.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1497"
   },
