@@ -298,39 +298,39 @@
   "1468": {
     "id": 1468,
     "name": "LV Block Storage Slab - 6TB",
-    "quantity": 0,
-    "hasStock": false,
+    "quantity": 1,
+    "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1468.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1468"
   },
   "1469": {
     "id": 1469,
     "name": "LV Block Storage Slab - 7TB",
-    "quantity": 0,
-    "hasStock": false,
+    "quantity": 1,
+    "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1469.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1469"
   },
   "1470": {
     "id": 1470,
     "name": "LV Block Storage Slab - 8TB",
-    "quantity": 0,
-    "hasStock": false,
+    "quantity": 1,
+    "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1470.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1470"
   },
   "1471": {
     "id": 1471,
     "name": "LV Block Storage Slab - 9TB",
-    "quantity": 0,
-    "hasStock": false,
+    "quantity": 1,
+    "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1471.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1471"
   },
   "1472": {
     "id": 1472,
     "name": "LV Block Storage Slab - 10TB",
-    "quantity": 4,
+    "quantity": 1,
     "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1472.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1472"
@@ -370,8 +370,8 @@
   "1477": {
     "id": 1477,
     "name": "NY Block Storage Slab - 3TB",
-    "quantity": 0,
-    "hasStock": false,
+    "quantity": 1,
+    "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1477.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1477"
   },
@@ -410,23 +410,23 @@
   "1482": {
     "id": 1482,
     "name": "NY Block Storage Slab - 8TB",
-    "quantity": 0,
-    "hasStock": false,
+    "quantity": 1,
+    "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1482.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1482"
   },
   "1483": {
     "id": 1483,
     "name": "NY Block Storage Slab - 9TB",
-    "quantity": 0,
-    "hasStock": false,
+    "quantity": 1,
+    "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1483.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1483"
   },
   "1484": {
     "id": 1484,
     "name": "NY Block Storage Slab - 10TB",
-    "quantity": 3,
+    "quantity": 1,
     "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1484.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1484"
