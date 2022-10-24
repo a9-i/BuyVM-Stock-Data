@@ -210,7 +210,7 @@
   "1429": {
     "id": 1429,
     "name": "LU RYZEN KVM 20GB",
-    "quantity": 2,
+    "quantity": 1,
     "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1429.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1429"
