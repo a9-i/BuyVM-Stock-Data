@@ -530,7 +530,7 @@
   "1501": {
     "id": 1501,
     "name": "MIA RYZEN KVM 1GB",
-    "quantity": 1,
+    "quantity": 9,
     "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1501.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1501"
@@ -570,40 +570,40 @@
   "1506": {
     "id": 1506,
     "name": "MIA RYZEN KVM 16GB",
-    "quantity": 2,
-    "hasStock": true,
+    "quantity": 0,
+    "hasStock": false,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1506.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1506"
   },
   "1507": {
     "id": 1507,
     "name": "MIA RYZEN KVM 20GB",
-    "quantity": 2,
-    "hasStock": true,
+    "quantity": 0,
+    "hasStock": false,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1507.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1507"
   },
   "1508": {
     "id": 1508,
     "name": "MIA RYZEN KVM 24GB",
-    "quantity": 2,
-    "hasStock": true,
+    "quantity": 0,
+    "hasStock": false,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1508.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1508"
   },
   "1509": {
     "id": 1509,
     "name": "MIA RYZEN KVM 28GB",
-    "quantity": 2,
-    "hasStock": true,
+    "quantity": 0,
+    "hasStock": false,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1509.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1509"
   },
   "1510": {
     "id": 1510,
     "name": "MIA RYZEN KVM 32GB",
-    "quantity": 2,
-    "hasStock": true,
+    "quantity": 0,
+    "hasStock": false,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1510.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1510"
   },
