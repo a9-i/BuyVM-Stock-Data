@@ -480,7 +480,7 @@
     "price": "$30.00 USD/mo"
   },
   {
-    "available": true,
+    "available": false,
     "grp_location": "New York",
     "grp_type": "Block Storage Slabs",
     "name": "NY Block Storage Slab - 7TB",
@@ -488,7 +488,7 @@
     "price": "$35.00 USD/mo"
   },
   {
-    "available": true,
+    "available": false,
     "grp_location": "New York",
     "grp_type": "Block Storage Slabs",
     "name": "NY Block Storage Slab - 8TB",
@@ -496,7 +496,7 @@
     "price": "$40.00 USD/mo"
   },
   {
-    "available": true,
+    "available": false,
     "grp_location": "New York",
     "grp_type": "Block Storage Slabs",
     "name": "NY Block Storage Slab - 9TB",
@@ -504,11 +504,275 @@
     "price": "$45.00 USD/mo"
   },
   {
-    "available": true,
+    "available": false,
     "grp_location": "New York",
     "grp_type": "Block Storage Slabs",
     "name": "NY Block Storage Slab - 10TB",
     "pid": "1484",
+    "price": "$50.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Miami",
+    "grp_type": "Block Storage Slabs",
+    "name": "MIA Block Storage Slab - 256GB",
+    "pid": "1511",
+    "price": "$1.25 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Miami",
+    "grp_type": "Block Storage Slabs",
+    "name": "MIA Block Storage Slab - 512GB",
+    "pid": "1512",
+    "price": "$2.50 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Miami",
+    "grp_type": "Block Storage Slabs",
+    "name": "MIA Block Storage Slab - 1TB",
+    "pid": "1513",
+    "price": "$5.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Miami",
+    "grp_type": "Block Storage Slabs",
+    "name": "MIA Block Storage Slab - 2TB",
+    "pid": "1514",
+    "price": "$10.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Miami",
+    "grp_type": "Block Storage Slabs",
+    "name": "MIA Block Storage Slab - 3TB",
+    "pid": "1515",
+    "price": "$15.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Miami",
+    "grp_type": "Block Storage Slabs",
+    "name": "MIA Block Storage Slab - 4TB",
+    "pid": "1516",
+    "price": "$20.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Miami",
+    "grp_type": "Block Storage Slabs",
+    "name": "MIA Block Storage Slab - 5TB",
+    "pid": "1517",
+    "price": "$25.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Miami",
+    "grp_type": "Block Storage Slabs",
+    "name": "MIA Block Storage Slab - 6TB",
+    "pid": "1518",
+    "price": "$30.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Miami",
+    "grp_type": "Block Storage Slabs",
+    "name": "MIA Block Storage Slab - 7TB",
+    "pid": "1519",
+    "price": "$35.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Miami",
+    "grp_type": "Block Storage Slabs",
+    "name": "MIA Block Storage Slab - 8TB",
+    "pid": "1520",
+    "price": "$40.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Miami",
+    "grp_type": "Block Storage Slabs",
+    "name": "MIA Block Storage Slab - 9TB",
+    "pid": "1521",
+    "price": "$45.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Miami",
+    "grp_type": "Block Storage Slabs",
+    "name": "MIA Block Storage Slab - 10TB",
+    "pid": "1522",
+    "price": "$50.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Luxembourg",
+    "grp_type": "Block Storage Slabs",
+    "name": "LU Block Storage Slab - 256GB",
+    "pid": "1486",
+    "price": "$1.25 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Luxembourg",
+    "grp_type": "Block Storage Slabs",
+    "name": "LU Block Storage Slab - 512GB",
+    "pid": "1487",
+    "price": "$2.50 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Luxembourg",
+    "grp_type": "Block Storage Slabs",
+    "name": "LU Block Storage Slab - 1TB",
+    "pid": "1488",
+    "price": "$5.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Luxembourg",
+    "grp_type": "Block Storage Slabs",
+    "name": "LU Block Storage Slab - 2TB",
+    "pid": "1489",
+    "price": "$10.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Luxembourg",
+    "grp_type": "Block Storage Slabs",
+    "name": "LU Block Storage Slab - 3TB",
+    "pid": "1490",
+    "price": "$15.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Luxembourg",
+    "grp_type": "Block Storage Slabs",
+    "name": "LU Block Storage Slab - 4TB",
+    "pid": "1491",
+    "price": "$20.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Luxembourg",
+    "grp_type": "Block Storage Slabs",
+    "name": "LU Block Storage Slab - 5TB",
+    "pid": "1492",
+    "price": "$25.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Luxembourg",
+    "grp_type": "Block Storage Slabs",
+    "name": "LU Block Storage Slab - 6TB",
+    "pid": "1493",
+    "price": "$30.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Luxembourg",
+    "grp_type": "Block Storage Slabs",
+    "name": "LU Block Storage Slab - 7TB",
+    "pid": "1494",
+    "price": "$35.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Luxembourg",
+    "grp_type": "Block Storage Slabs",
+    "name": "LU Block Storage Slab - 8TB",
+    "pid": "1495",
+    "price": "$40.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Luxembourg",
+    "grp_type": "Block Storage Slabs",
+    "name": "LU Block Storage Slab - 9TB",
+    "pid": "1496",
+    "price": "$45.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Luxembourg",
+    "grp_type": "Block Storage Slabs",
+    "name": "LU Block Storage Slab - 10TB",
+    "pid": "1497",
+    "price": "$50.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": null,
+    "grp_type": "Addon Licenses",
+    "name": "CloudLinux  License",
+    "pid": "1435",
+    "price": "$10.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": null,
+    "grp_type": "Free Software Licenses",
+    "name": "DirectAdmin License",
+    "pid": "1444",
+    "price": "$0.00 USD"
+  },
+  {
+    "available": true,
+    "grp_location": null,
+    "grp_type": "Free Software Licenses",
+    "name": "Blesta License",
+    "pid": "1447",
+    "price": "$0.00 USD"
+  },
+  {
+    "available": true,
+    "grp_location": null,
+    "grp_type": "Free Software Licenses",
+    "name": "Softaculous License",
+    "pid": "1448",
+    "price": "$0.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": null,
+    "grp_type": "Offloaded SQL",
+    "name": "Las Vegas Offloaded SQL",
+    "pid": "1455",
+    "price": "$1.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": null,
+    "grp_type": "Offloaded SQL",
+    "name": "New York Offloaded SQL",
+    "pid": "114",
+    "price": "$1.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": null,
+    "grp_type": "Networking",
+    "name": "/24 IPv4 IP Address Lease",
+    "pid": "1401",
+    "price": "$125.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": null,
+    "grp_type": "Networking",
+    "name": "/48 IPv6 IP Address Lease",
+    "pid": "1527",
+    "price": "$0.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": null,
+    "grp_type": "Networking",
+    "name": "DDOS Protected BGP Session",
+    "pid": "1498",
     "price": "$50.00 USD/mo"
   }
 ]
