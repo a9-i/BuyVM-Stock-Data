@@ -115,7 +115,7 @@
     "id": 1417,
     "name": "NY RYZEN KVM 12GB",
     "quantity": 0,
-    "hasStock": false,
+    "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1417.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1417"
   },
@@ -123,7 +123,7 @@
     "id": 1418,
     "name": "NY RYZEN KVM 16GB",
     "quantity": 0,
-    "hasStock": false,
+    "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1418.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1418"
   },
@@ -131,7 +131,7 @@
     "id": 1419,
     "name": "NY RYZEN KVM 20GB",
     "quantity": 0,
-    "hasStock": false,
+    "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1419.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1419"
   },
@@ -139,7 +139,7 @@
     "id": 1420,
     "name": "NY RYZEN KVM 24GB",
     "quantity": 0,
-    "hasStock": false,
+    "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1420.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1420"
   },
@@ -147,7 +147,7 @@
     "id": 1421,
     "name": "NY RYZEN KVM 28GB",
     "quantity": 0,
-    "hasStock": false,
+    "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1421.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1421"
   },
@@ -155,7 +155,7 @@
     "id": 1422,
     "name": "NY RYZEN KVM 32GB",
     "quantity": 0,
-    "hasStock": false,
+    "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1422.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1422"
   },
@@ -242,24 +242,24 @@
   "1461": {
     "id": 1461,
     "name": "LV Block Storage Slab - 256GB",
-    "quantity": 0,
-    "hasStock": false,
+    "quantity": 2,
+    "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1461.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1461"
   },
   "1462": {
     "id": 1462,
     "name": "LV Block Storage Slab - 512GB",
-    "quantity": 0,
-    "hasStock": false,
+    "quantity": 2,
+    "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1462.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1462"
   },
   "1463": {
     "id": 1463,
     "name": "LV Block Storage Slab - 1TB",
-    "quantity": 0,
-    "hasStock": false,
+    "quantity": 2,
+    "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1463.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1463"
   },
@@ -610,8 +610,8 @@
   "1511": {
     "id": 1511,
     "name": "MIA Block Storage Slab - 256GB",
-    "quantity": 0,
-    "hasStock": false,
+    "quantity": 1,
+    "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1511.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1511"
   },
