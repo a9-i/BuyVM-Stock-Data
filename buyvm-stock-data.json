@@ -320,7 +320,7 @@
     "price": "$120.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "Las Vegas",
     "grp_type": "Block Storage Slabs",
     "name": "LV Block Storage Slab - 256GB",
@@ -328,7 +328,7 @@
     "price": "$1.25 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "Las Vegas",
     "grp_type": "Block Storage Slabs",
     "name": "LV Block Storage Slab - 512GB",
@@ -702,6 +702,54 @@
     "name": "LU Block Storage Slab - 10TB",
     "pid": "1497",
     "price": "$50.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Luxembourg",
+    "grp_type": "Webhosting",
+    "name": "LU BuyShared 1G",
+    "pid": "1367",
+    "price": "$0.67 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Luxembourg",
+    "grp_type": "Webhosting",
+    "name": "LU BuyShared 5G",
+    "pid": "1368",
+    "price": "$1.08 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Luxembourg",
+    "grp_type": "Webhosting",
+    "name": "LU BuyShared 20G",
+    "pid": "1369",
+    "price": "$1.50 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Las Vegas",
+    "grp_type": "Webhosting",
+    "name": "LV BuyShared 1G",
+    "pid": "69",
+    "price": "$0.67 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Las Vegas",
+    "grp_type": "Webhosting",
+    "name": "LV BuyShared 5G",
+    "pid": "70",
+    "price": "$1.08 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Las Vegas",
+    "grp_type": "Webhosting",
+    "name": "LV BuyShared 20G",
+    "pid": "71",
+    "price": "$1.50 USD/mo"
   },
   {
     "available": true,
