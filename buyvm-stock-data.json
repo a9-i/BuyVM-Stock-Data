@@ -729,6 +729,30 @@
   },
   {
     "available": true,
+    "grp_location": "Luxembourg",
+    "grp_type": "Reseller Webhosting",
+    "name": "LU BuyShared-Reseller 20G (DirectAdmin)",
+    "pid": "1452",
+    "price": "$2.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Luxembourg",
+    "grp_type": "Reseller Webhosting",
+    "name": "LU BuyShared-Reseller 50G (DirectAdmin)",
+    "pid": "1453",
+    "price": "$4.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Luxembourg",
+    "grp_type": "Reseller Webhosting",
+    "name": "LU BuyShared-Reseller 125G (DirectAdmin)",
+    "pid": "1454",
+    "price": "$7.00 USD/mo"
+  },
+  {
+    "available": true,
     "grp_location": "Las Vegas",
     "grp_type": "Webhosting",
     "name": "LV BuyShared 1G",
@@ -750,6 +774,30 @@
     "name": "LV BuyShared 20G",
     "pid": "71",
     "price": "$1.50 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Las Vegas",
+    "grp_type": "Reseller Webhosting",
+    "name": "LV BuyShared-Reseller 20G (DirectAdmin)",
+    "pid": "1449",
+    "price": "$2.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Las Vegas",
+    "grp_type": "Reseller Webhosting",
+    "name": "LV BuyShared-Reseller 50G (DirectAdmin)",
+    "pid": "1450",
+    "price": "$4.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Las Vegas",
+    "grp_type": "Reseller Webhosting",
+    "name": "LV BuyShared-Reseller 125G (DirectAdmin)",
+    "pid": "1451",
+    "price": "$7.00 USD/mo"
   },
   {
     "available": true,
