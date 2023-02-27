@@ -386,8 +386,8 @@
   "1479": {
     "id": 1479,
     "name": "NY Block Storage Slab - 5TB",
-    "quantity": 0,
-    "hasStock": false,
+    "quantity": 1,
+    "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1479.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1479"
   },
