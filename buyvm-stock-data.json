@@ -813,7 +813,7 @@
     "grp_type": "Free Software Licenses",
     "name": "DirectAdmin License",
     "pid": "1444",
-    "price": "$0.00 USD"
+    "price": "$0.00 USD/mo"
   },
   {
     "available": true,
@@ -821,7 +821,7 @@
     "grp_type": "Free Software Licenses",
     "name": "Blesta License",
     "pid": "1447",
-    "price": "$0.00 USD"
+    "price": "$0.00 USD/mo"
   },
   {
     "available": true,
