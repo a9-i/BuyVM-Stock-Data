@@ -634,7 +634,7 @@
   "1514": {
     "id": 1514,
     "name": "MIA Block Storage Slab - 2TB",
-    "quantity": 2,
+    "quantity": 1,
     "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1514.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1514"
