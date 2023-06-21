@@ -779,6 +779,14 @@
     "available": false,
     "grp_location": "Las Vegas",
     "grp_type": "Reseller Webhosting",
+    "name": "LV BuyShared-Reseller 20G (cPanel)",
+    "pid": "1344",
+    "price": "$3.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Las Vegas",
+    "grp_type": "Reseller Webhosting",
     "name": "LV BuyShared-Reseller 20G (DirectAdmin)",
     "pid": "1449",
     "price": "$2.00 USD/mo"
