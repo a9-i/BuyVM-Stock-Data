@@ -459,7 +459,7 @@
     "id": 1489,
     "name": "LU Block Storage Slab - 2TB",
     "quantity": 0,
-    "hasStock": false,
+    "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1489.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1489"
   },
@@ -467,7 +467,7 @@
     "id": 1490,
     "name": "LU Block Storage Slab - 3TB",
     "quantity": 0,
-    "hasStock": false,
+    "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1490.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1490"
   },
@@ -530,7 +530,7 @@
   "1501": {
     "id": 1501,
     "name": "MIA RYZEN KVM 1GB",
-    "quantity": 35,
+    "quantity": 34,
     "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1501.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1501"
