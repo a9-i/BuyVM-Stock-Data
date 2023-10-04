@@ -82,7 +82,7 @@
   "1413": {
     "id": 1413,
     "name": "NY RYZEN KVM 1GB",
-    "quantity": 20,
+    "quantity": 18,
     "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1413.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1413"
@@ -227,7 +227,7 @@
     "id": 1431,
     "name": "LU RYZEN KVM 28GB",
     "quantity": 0,
-    "hasStock": true,
+    "hasStock": false,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1431.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1431"
   },
@@ -235,7 +235,7 @@
     "id": 1432,
     "name": "LU RYZEN KVM 32GB",
     "quantity": 0,
-    "hasStock": true,
+    "hasStock": false,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1432.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1432"
   },
@@ -546,7 +546,7 @@
   "1503": {
     "id": 1503,
     "name": "MIA RYZEN KVM 4GB",
-    "quantity": 2,
+    "quantity": 1,
     "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1503.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1503"
