@@ -32,7 +32,7 @@
     "price": "$30.00 USD/mo"
   },
   {
-    "available": true,
+    "available": false,
     "grp_location": "Las Vegas",
     "grp_type": "AMD RYZEN KVM",
     "name": "LV RYZEN KVM 12GB",
@@ -272,7 +272,7 @@
     "price": "$30.00 USD/mo"
   },
   {
-    "available": true,
+    "available": false,
     "grp_location": "Luxembourg",
     "grp_type": "AMD RYZEN KVM",
     "name": "LU RYZEN KVM 12GB",
