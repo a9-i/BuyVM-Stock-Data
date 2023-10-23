@@ -339,7 +339,7 @@
     "id": 1473,
     "name": "NY Block Storage Slab - 256GB",
     "quantity": 0,
-    "hasStock": true,
+    "hasStock": false,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1473.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1473"
   },
@@ -347,7 +347,7 @@
     "id": 1474,
     "name": "NY Block Storage Slab - 512GB",
     "quantity": 0,
-    "hasStock": true,
+    "hasStock": false,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1474.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1474"
   },
@@ -355,15 +355,15 @@
     "id": 1475,
     "name": "NY Block Storage Slab - 1TB",
     "quantity": 0,
-    "hasStock": true,
+    "hasStock": false,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1475.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1475"
   },
   "1476": {
     "id": 1476,
     "name": "NY Block Storage Slab - 2TB",
-    "quantity": 0,
-    "hasStock": false,
+    "quantity": 2,
+    "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1476.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1476"
   },
@@ -611,7 +611,7 @@
     "id": 1511,
     "name": "MIA Block Storage Slab - 256GB",
     "quantity": 0,
-    "hasStock": true,
+    "hasStock": false,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1511.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1511"
   },
@@ -619,7 +619,7 @@
     "id": 1512,
     "name": "MIA Block Storage Slab - 512GB",
     "quantity": 0,
-    "hasStock": true,
+    "hasStock": false,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1512.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1512"
   },
@@ -627,15 +627,15 @@
     "id": 1513,
     "name": "MIA Block Storage Slab - 1TB",
     "quantity": 0,
-    "hasStock": true,
+    "hasStock": false,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1513.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1513"
   },
   "1514": {
     "id": 1514,
     "name": "MIA Block Storage Slab - 2TB",
-    "quantity": 0,
-    "hasStock": false,
+    "quantity": 2,
+    "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1514.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1514"
   },
