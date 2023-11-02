@@ -602,8 +602,8 @@
   "1510": {
     "id": 1510,
     "name": "MIA RYZEN KVM 32GB",
-    "quantity": 1,
-    "hasStock": true,
+    "quantity": 0,
+    "hasStock": false,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1510.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1510"
   },
