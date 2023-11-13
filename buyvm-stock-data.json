@@ -520,7 +520,7 @@
     "price": "$1.25 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "Miami",
     "grp_type": "Block Storage Slabs",
     "name": "MIA Block Storage Slab - 512GB",
@@ -824,7 +824,7 @@
     "price": "$8.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "Las Vegas",
     "grp_type": "Reseller Webhosting",
     "name": "LV BuyShared-Reseller 20G (DirectAdmin)",
