@@ -80,7 +80,7 @@
     "price": "$120.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "New York",
     "grp_type": "AMD RYZEN KVM",
     "name": "NY RYZEN KVM 1GB",
@@ -184,7 +184,7 @@
     "price": "$15.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "Miami",
     "grp_type": "AMD RYZEN KVM",
     "name": "MIA RYZEN KVM 8GB",
@@ -840,7 +840,7 @@
     "price": "$4.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "Las Vegas",
     "grp_type": "Reseller Webhosting",
     "name": "LV BuyShared-Reseller 125G (DirectAdmin)",
