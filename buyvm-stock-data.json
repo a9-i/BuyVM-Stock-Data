@@ -824,7 +824,7 @@
     "price": "$8.00 USD/mo"
   },
   {
-    "available": true,
+    "available": false,
     "grp_location": "Las Vegas",
     "grp_type": "Reseller Webhosting",
     "name": "LV BuyShared-Reseller 20G (DirectAdmin)",
@@ -840,7 +840,7 @@
     "price": "$4.00 USD/mo"
   },
   {
-    "available": true,
+    "available": false,
     "grp_location": "Las Vegas",
     "grp_type": "Reseller Webhosting",
     "name": "LV BuyShared-Reseller 125G (DirectAdmin)",
