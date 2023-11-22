@@ -1,1 +1,922 @@
-[]
+[
+  {
+    "available": false,
+    "grp_location": "Las Vegas",
+    "grp_type": "AMD RYZEN KVM",
+    "name": "LV RYZEN KVM 1GB",
+    "pid": "1411",
+    "price": "$3.50 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Las Vegas",
+    "grp_type": "AMD RYZEN KVM",
+    "name": "LV RYZEN KVM 2GB",
+    "pid": "1402",
+    "price": "$7.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Las Vegas",
+    "grp_type": "AMD RYZEN KVM",
+    "name": "LV RYZEN KVM 4GB",
+    "pid": "1403",
+    "price": "$15.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Las Vegas",
+    "grp_type": "AMD RYZEN KVM",
+    "name": "LV RYZEN KVM 8GB",
+    "pid": "1404",
+    "price": "$30.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Las Vegas",
+    "grp_type": "AMD RYZEN KVM",
+    "name": "LV RYZEN KVM 12GB",
+    "pid": "1405",
+    "price": "$45.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Las Vegas",
+    "grp_type": "AMD RYZEN KVM",
+    "name": "LV RYZEN KVM 16GB",
+    "pid": "1406",
+    "price": "$60.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Las Vegas",
+    "grp_type": "AMD RYZEN KVM",
+    "name": "LV RYZEN KVM 20GB",
+    "pid": "1407",
+    "price": "$75.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Las Vegas",
+    "grp_type": "AMD RYZEN KVM",
+    "name": "LV RYZEN KVM 24GB",
+    "pid": "1408",
+    "price": "$90.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Las Vegas",
+    "grp_type": "AMD RYZEN KVM",
+    "name": "LV RYZEN KVM 28GB",
+    "pid": "1409",
+    "price": "$105.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Las Vegas",
+    "grp_type": "AMD RYZEN KVM",
+    "name": "LV RYZEN KVM 32GB",
+    "pid": "1410",
+    "price": "$120.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "New York",
+    "grp_type": "AMD RYZEN KVM",
+    "name": "NY RYZEN KVM 1GB",
+    "pid": "1413",
+    "price": "$3.50 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "New York",
+    "grp_type": "AMD RYZEN KVM",
+    "name": "NY RYZEN KVM 2GB",
+    "pid": "1414",
+    "price": "$7.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "New York",
+    "grp_type": "AMD RYZEN KVM",
+    "name": "NY RYZEN KVM 4GB",
+    "pid": "1415",
+    "price": "$15.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "New York",
+    "grp_type": "AMD RYZEN KVM",
+    "name": "NY RYZEN KVM 8GB",
+    "pid": "1416",
+    "price": "$30.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "New York",
+    "grp_type": "AMD RYZEN KVM",
+    "name": "NY RYZEN KVM 12GB",
+    "pid": "1417",
+    "price": "$45.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "New York",
+    "grp_type": "AMD RYZEN KVM",
+    "name": "NY RYZEN KVM 16GB",
+    "pid": "1418",
+    "price": "$60.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "New York",
+    "grp_type": "AMD RYZEN KVM",
+    "name": "NY RYZEN KVM 20GB",
+    "pid": "1419",
+    "price": "$75.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "New York",
+    "grp_type": "AMD RYZEN KVM",
+    "name": "NY RYZEN KVM 24GB",
+    "pid": "1420",
+    "price": "$90.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "New York",
+    "grp_type": "AMD RYZEN KVM",
+    "name": "NY RYZEN KVM 28GB",
+    "pid": "1421",
+    "price": "$105.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "New York",
+    "grp_type": "AMD RYZEN KVM",
+    "name": "NY RYZEN KVM 32GB",
+    "pid": "1422",
+    "price": "$120.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Miami",
+    "grp_type": "AMD RYZEN KVM",
+    "name": "MIA RYZEN KVM 1GB",
+    "pid": "1501",
+    "price": "$3.50 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Miami",
+    "grp_type": "AMD RYZEN KVM",
+    "name": "MIA RYZEN KVM 2GB",
+    "pid": "1502",
+    "price": "$7.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Miami",
+    "grp_type": "AMD RYZEN KVM",
+    "name": "MIA RYZEN KVM 4GB",
+    "pid": "1503",
+    "price": "$15.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Miami",
+    "grp_type": "AMD RYZEN KVM",
+    "name": "MIA RYZEN KVM 8GB",
+    "pid": "1504",
+    "price": "$30.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Miami",
+    "grp_type": "AMD RYZEN KVM",
+    "name": "MIA RYZEN KVM 12GB",
+    "pid": "1505",
+    "price": "$45.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Miami",
+    "grp_type": "AMD RYZEN KVM",
+    "name": "MIA RYZEN KVM 16GB",
+    "pid": "1506",
+    "price": "$60.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Miami",
+    "grp_type": "AMD RYZEN KVM",
+    "name": "MIA RYZEN KVM 20GB",
+    "pid": "1507",
+    "price": "$75.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Miami",
+    "grp_type": "AMD RYZEN KVM",
+    "name": "MIA RYZEN KVM 24GB",
+    "pid": "1508",
+    "price": "$90.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Miami",
+    "grp_type": "AMD RYZEN KVM",
+    "name": "MIA RYZEN KVM 28GB",
+    "pid": "1509",
+    "price": "$105.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Miami",
+    "grp_type": "AMD RYZEN KVM",
+    "name": "MIA RYZEN KVM 32GB",
+    "pid": "1510",
+    "price": "$120.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Luxembourg",
+    "grp_type": "AMD RYZEN KVM",
+    "name": "LU RYZEN KVM 1GB",
+    "pid": "1423",
+    "price": "$3.50 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Luxembourg",
+    "grp_type": "AMD RYZEN KVM",
+    "name": "LU RYZEN KVM 2GB",
+    "pid": "1424",
+    "price": "$7.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Luxembourg",
+    "grp_type": "AMD RYZEN KVM",
+    "name": "LU RYZEN KVM 4GB",
+    "pid": "1425",
+    "price": "$15.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Luxembourg",
+    "grp_type": "AMD RYZEN KVM",
+    "name": "LU RYZEN KVM 8GB",
+    "pid": "1426",
+    "price": "$30.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Luxembourg",
+    "grp_type": "AMD RYZEN KVM",
+    "name": "LU RYZEN KVM 12GB",
+    "pid": "1427",
+    "price": "$45.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Luxembourg",
+    "grp_type": "AMD RYZEN KVM",
+    "name": "LU RYZEN KVM 16GB",
+    "pid": "1428",
+    "price": "$60.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Luxembourg",
+    "grp_type": "AMD RYZEN KVM",
+    "name": "LU RYZEN KVM 20GB",
+    "pid": "1429",
+    "price": "$75.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Luxembourg",
+    "grp_type": "AMD RYZEN KVM",
+    "name": "LU RYZEN KVM 24GB",
+    "pid": "1430",
+    "price": "$90.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Luxembourg",
+    "grp_type": "AMD RYZEN KVM",
+    "name": "LU RYZEN KVM 28GB",
+    "pid": "1431",
+    "price": "$105.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Luxembourg",
+    "grp_type": "AMD RYZEN KVM",
+    "name": "LU RYZEN KVM 32GB",
+    "pid": "1432",
+    "price": "$120.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Las Vegas",
+    "grp_type": "Block Storage Slabs",
+    "name": "LV Block Storage Slab - 256GB",
+    "pid": "1461",
+    "price": "$1.25 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Las Vegas",
+    "grp_type": "Block Storage Slabs",
+    "name": "LV Block Storage Slab - 512GB",
+    "pid": "1462",
+    "price": "$2.50 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Las Vegas",
+    "grp_type": "Block Storage Slabs",
+    "name": "LV Block Storage Slab - 1TB",
+    "pid": "1463",
+    "price": "$5.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Las Vegas",
+    "grp_type": "Block Storage Slabs",
+    "name": "LV Block Storage Slab - 2TB",
+    "pid": "1464",
+    "price": "$10.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Las Vegas",
+    "grp_type": "Block Storage Slabs",
+    "name": "LV Block Storage Slab - 3TB",
+    "pid": "1465",
+    "price": "$15.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Las Vegas",
+    "grp_type": "Block Storage Slabs",
+    "name": "LV Block Storage Slab - 4TB",
+    "pid": "1466",
+    "price": "$20.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Las Vegas",
+    "grp_type": "Block Storage Slabs",
+    "name": "LV Block Storage Slab - 5TB",
+    "pid": "1467",
+    "price": "$25.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Las Vegas",
+    "grp_type": "Block Storage Slabs",
+    "name": "LV Block Storage Slab - 6TB",
+    "pid": "1468",
+    "price": "$30.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Las Vegas",
+    "grp_type": "Block Storage Slabs",
+    "name": "LV Block Storage Slab - 7TB",
+    "pid": "1469",
+    "price": "$35.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Las Vegas",
+    "grp_type": "Block Storage Slabs",
+    "name": "LV Block Storage Slab - 8TB",
+    "pid": "1470",
+    "price": "$40.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Las Vegas",
+    "grp_type": "Block Storage Slabs",
+    "name": "LV Block Storage Slab - 9TB",
+    "pid": "1471",
+    "price": "$45.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Las Vegas",
+    "grp_type": "Block Storage Slabs",
+    "name": "LV Block Storage Slab - 10TB",
+    "pid": "1472",
+    "price": "$50.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "New York",
+    "grp_type": "Block Storage Slabs",
+    "name": "NY Block Storage Slab - 256GB",
+    "pid": "1473",
+    "price": "$1.25 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "New York",
+    "grp_type": "Block Storage Slabs",
+    "name": "NY Block Storage Slab - 512GB",
+    "pid": "1474",
+    "price": "$2.50 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "New York",
+    "grp_type": "Block Storage Slabs",
+    "name": "NY Block Storage Slab - 1TB",
+    "pid": "1475",
+    "price": "$5.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "New York",
+    "grp_type": "Block Storage Slabs",
+    "name": "NY Block Storage Slab - 2TB",
+    "pid": "1476",
+    "price": "$10.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "New York",
+    "grp_type": "Block Storage Slabs",
+    "name": "NY Block Storage Slab - 3TB",
+    "pid": "1477",
+    "price": "$15.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "New York",
+    "grp_type": "Block Storage Slabs",
+    "name": "NY Block Storage Slab - 4TB",
+    "pid": "1478",
+    "price": "$20.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "New York",
+    "grp_type": "Block Storage Slabs",
+    "name": "NY Block Storage Slab - 5TB",
+    "pid": "1479",
+    "price": "$25.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "New York",
+    "grp_type": "Block Storage Slabs",
+    "name": "NY Block Storage Slab - 6TB",
+    "pid": "1480",
+    "price": "$30.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "New York",
+    "grp_type": "Block Storage Slabs",
+    "name": "NY Block Storage Slab - 7TB",
+    "pid": "1481",
+    "price": "$35.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "New York",
+    "grp_type": "Block Storage Slabs",
+    "name": "NY Block Storage Slab - 8TB",
+    "pid": "1482",
+    "price": "$40.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "New York",
+    "grp_type": "Block Storage Slabs",
+    "name": "NY Block Storage Slab - 9TB",
+    "pid": "1483",
+    "price": "$45.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "New York",
+    "grp_type": "Block Storage Slabs",
+    "name": "NY Block Storage Slab - 10TB",
+    "pid": "1484",
+    "price": "$50.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Miami",
+    "grp_type": "Block Storage Slabs",
+    "name": "MIA Block Storage Slab - 256GB",
+    "pid": "1511",
+    "price": "$1.25 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Miami",
+    "grp_type": "Block Storage Slabs",
+    "name": "MIA Block Storage Slab - 512GB",
+    "pid": "1512",
+    "price": "$2.50 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Miami",
+    "grp_type": "Block Storage Slabs",
+    "name": "MIA Block Storage Slab - 1TB",
+    "pid": "1513",
+    "price": "$5.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Miami",
+    "grp_type": "Block Storage Slabs",
+    "name": "MIA Block Storage Slab - 2TB",
+    "pid": "1514",
+    "price": "$10.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Miami",
+    "grp_type": "Block Storage Slabs",
+    "name": "MIA Block Storage Slab - 3TB",
+    "pid": "1515",
+    "price": "$15.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Miami",
+    "grp_type": "Block Storage Slabs",
+    "name": "MIA Block Storage Slab - 4TB",
+    "pid": "1516",
+    "price": "$20.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Miami",
+    "grp_type": "Block Storage Slabs",
+    "name": "MIA Block Storage Slab - 5TB",
+    "pid": "1517",
+    "price": "$25.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Miami",
+    "grp_type": "Block Storage Slabs",
+    "name": "MIA Block Storage Slab - 6TB",
+    "pid": "1518",
+    "price": "$30.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Miami",
+    "grp_type": "Block Storage Slabs",
+    "name": "MIA Block Storage Slab - 7TB",
+    "pid": "1519",
+    "price": "$35.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Miami",
+    "grp_type": "Block Storage Slabs",
+    "name": "MIA Block Storage Slab - 8TB",
+    "pid": "1520",
+    "price": "$40.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Miami",
+    "grp_type": "Block Storage Slabs",
+    "name": "MIA Block Storage Slab - 9TB",
+    "pid": "1521",
+    "price": "$45.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Miami",
+    "grp_type": "Block Storage Slabs",
+    "name": "MIA Block Storage Slab - 10TB",
+    "pid": "1522",
+    "price": "$50.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Luxembourg",
+    "grp_type": "Block Storage Slabs",
+    "name": "LU Block Storage Slab - 256GB",
+    "pid": "1486",
+    "price": "$1.25 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Luxembourg",
+    "grp_type": "Block Storage Slabs",
+    "name": "LU Block Storage Slab - 512GB",
+    "pid": "1487",
+    "price": "$2.50 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Luxembourg",
+    "grp_type": "Block Storage Slabs",
+    "name": "LU Block Storage Slab - 1TB",
+    "pid": "1488",
+    "price": "$5.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Luxembourg",
+    "grp_type": "Block Storage Slabs",
+    "name": "LU Block Storage Slab - 2TB",
+    "pid": "1489",
+    "price": "$10.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Luxembourg",
+    "grp_type": "Block Storage Slabs",
+    "name": "LU Block Storage Slab - 3TB",
+    "pid": "1490",
+    "price": "$15.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Luxembourg",
+    "grp_type": "Block Storage Slabs",
+    "name": "LU Block Storage Slab - 4TB",
+    "pid": "1491",
+    "price": "$20.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Luxembourg",
+    "grp_type": "Block Storage Slabs",
+    "name": "LU Block Storage Slab - 5TB",
+    "pid": "1492",
+    "price": "$25.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Luxembourg",
+    "grp_type": "Block Storage Slabs",
+    "name": "LU Block Storage Slab - 6TB",
+    "pid": "1493",
+    "price": "$30.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Luxembourg",
+    "grp_type": "Block Storage Slabs",
+    "name": "LU Block Storage Slab - 7TB",
+    "pid": "1494",
+    "price": "$35.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Luxembourg",
+    "grp_type": "Block Storage Slabs",
+    "name": "LU Block Storage Slab - 8TB",
+    "pid": "1495",
+    "price": "$40.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Luxembourg",
+    "grp_type": "Block Storage Slabs",
+    "name": "LU Block Storage Slab - 9TB",
+    "pid": "1496",
+    "price": "$45.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Luxembourg",
+    "grp_type": "Block Storage Slabs",
+    "name": "LU Block Storage Slab - 10TB",
+    "pid": "1497",
+    "price": "$50.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Luxembourg",
+    "grp_type": "Webhosting",
+    "name": "LU BuyShared 1G",
+    "pid": "1367",
+    "price": "$0.67 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Luxembourg",
+    "grp_type": "Webhosting",
+    "name": "LU BuyShared 5G",
+    "pid": "1368",
+    "price": "$1.08 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Luxembourg",
+    "grp_type": "Webhosting",
+    "name": "LU BuyShared 20G",
+    "pid": "1369",
+    "price": "$1.50 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Luxembourg",
+    "grp_type": "Reseller Webhosting",
+    "name": "LU BuyShared-Reseller 20G (cPanel)",
+    "pid": "1370",
+    "price": "$3.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Luxembourg",
+    "grp_type": "Reseller Webhosting",
+    "name": "LU BuyShared-Reseller 50G (cPanel)",
+    "pid": "1371",
+    "price": "$5.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Luxembourg",
+    "grp_type": "Reseller Webhosting",
+    "name": "LU BuyShared-Reseller 125G (cPanel)",
+    "pid": "1372",
+    "price": "$8.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Luxembourg",
+    "grp_type": "Reseller Webhosting",
+    "name": "LU BuyShared-Reseller 20G (DirectAdmin)",
+    "pid": "1452",
+    "price": "$2.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Luxembourg",
+    "grp_type": "Reseller Webhosting",
+    "name": "LU BuyShared-Reseller 50G (DirectAdmin)",
+    "pid": "1453",
+    "price": "$4.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Luxembourg",
+    "grp_type": "Reseller Webhosting",
+    "name": "LU BuyShared-Reseller 125G (DirectAdmin)",
+    "pid": "1454",
+    "price": "$7.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Las Vegas",
+    "grp_type": "Webhosting",
+    "name": "LV BuyShared 1G",
+    "pid": "69",
+    "price": "$0.67 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Las Vegas",
+    "grp_type": "Webhosting",
+    "name": "LV BuyShared 5G",
+    "pid": "70",
+    "price": "$1.08 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Las Vegas",
+    "grp_type": "Webhosting",
+    "name": "LV BuyShared 20G",
+    "pid": "71",
+    "price": "$1.50 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Las Vegas",
+    "grp_type": "Reseller Webhosting",
+    "name": "LV BuyShared-Reseller 20G (cPanel)",
+    "pid": "1344",
+    "price": "$3.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Las Vegas",
+    "grp_type": "Reseller Webhosting",
+    "name": "LV BuyShared-Reseller 50G (cPanel)",
+    "pid": "72",
+    "price": "$5.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Las Vegas",
+    "grp_type": "Reseller Webhosting",
+    "name": "LV BuyShared-Reseller 125G (cPanel)",
+    "pid": "73",
+    "price": "$8.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Las Vegas",
+    "grp_type": "Reseller Webhosting",
+    "name": "LV BuyShared-Reseller 20G (DirectAdmin)",
+    "pid": "1449",
+    "price": "$2.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Las Vegas",
+    "grp_type": "Reseller Webhosting",
+    "name": "LV BuyShared-Reseller 50G (DirectAdmin)",
+    "pid": "1450",
+    "price": "$4.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": "Las Vegas",
+    "grp_type": "Reseller Webhosting",
+    "name": "LV BuyShared-Reseller 125G (DirectAdmin)",
+    "pid": "1451",
+    "price": "$7.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": null,
+    "grp_type": "Addon Licenses",
+    "name": "CloudLinux  License",
+    "pid": "1435",
+    "price": "$10.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": null,
+    "grp_type": "Free Software Licenses",
+    "name": "DirectAdmin License",
+    "pid": "1444",
+    "price": "$0.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": null,
+    "grp_type": "Free Software Licenses",
+    "name": "Blesta License",
+    "pid": "1447",
+    "price": "$0.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": null,
+    "grp_type": "Free Software Licenses",
+    "name": "Softaculous License",
+    "pid": "1448",
+    "price": "$0.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": null,
+    "grp_type": "Offloaded SQL",
+    "name": "Las Vegas Offloaded SQL",
+    "pid": "1455",
+    "price": "$1.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": null,
+    "grp_type": "Offloaded SQL",
+    "name": "New York Offloaded SQL",
+    "pid": "114",
+    "price": "$1.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": null,
+    "grp_type": "Networking",
+    "name": "/24 IPv4 IP Address Lease",
+    "pid": "1401",
+    "price": "$125.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": null,
+    "grp_type": "Networking",
+    "name": "/48 IPv6 IP Address Lease",
+    "pid": "1527",
+    "price": "$0.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": null,
+    "grp_type": "Networking",
+    "name": "DDOS Protected BGP Session",
+    "pid": "1498",
+    "price": "$50.00 USD/mo"
+  }
+]
