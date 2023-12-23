@@ -58,7 +58,7 @@
   "1409": {
     "id": 1409,
     "name": "LV RYZEN KVM 28GB",
-    "quantity": 2,
+    "quantity": 1,
     "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1409.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1409"
