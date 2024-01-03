@@ -3,6 +3,14 @@
     "available": true,
     "grp_location": "Las Vegas",
     "grp_type": "AMD RYZEN KVM",
+    "name": "LV RYZEN KVM 512MB",
+    "pid": "1439",
+    "price": "$2.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Las Vegas",
+    "grp_type": "AMD RYZEN KVM",
     "name": "LV RYZEN KVM 1GB",
     "pid": "1411",
     "price": "$3.50 USD/mo"
@@ -78,6 +86,14 @@
     "name": "LV RYZEN KVM 32GB",
     "pid": "1410",
     "price": "$120.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "New York",
+    "grp_type": "AMD RYZEN KVM",
+    "name": "NY RYZEN KVM 512MB",
+    "pid": "1440",
+    "price": "$2.00 USD/mo"
   },
   {
     "available": true,
@@ -163,6 +179,14 @@
     "available": true,
     "grp_location": "Miami",
     "grp_type": "AMD RYZEN KVM",
+    "name": "MIA RYZEN KVM 512MB",
+    "pid": "1500",
+    "price": "$2.00 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Miami",
+    "grp_type": "AMD RYZEN KVM",
     "name": "MIA RYZEN KVM 1GB",
     "pid": "1501",
     "price": "$3.50 USD/mo"
@@ -241,6 +265,14 @@
   },
   {
     "available": true,
+    "grp_location": "Luxembourg",
+    "grp_type": "AMD RYZEN KVM",
+    "name": "LU RYZEN KVM 512MB",
+    "pid": "1441",
+    "price": "$2.00 USD/mo"
+  },
+  {
+    "available": false,
     "grp_location": "Luxembourg",
     "grp_type": "AMD RYZEN KVM",
     "name": "LU RYZEN KVM 1GB",
