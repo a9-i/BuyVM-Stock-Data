@@ -562,7 +562,7 @@
   "1501": {
     "id": 1501,
     "name": "MIA RYZEN KVM 1GB",
-    "quantity": 9,
+    "quantity": 4,
     "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1501.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1501"
@@ -570,7 +570,7 @@
   "1502": {
     "id": 1502,
     "name": "MIA RYZEN KVM 2GB",
-    "quantity": 6,
+    "quantity": 4,
     "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1502.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1502"
