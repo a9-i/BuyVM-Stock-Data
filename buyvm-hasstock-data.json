@@ -466,7 +466,7 @@
   "1487": {
     "id": 1487,
     "name": "LU Block Storage Slab - 512GB",
-    "quantity": 5,
+    "quantity": 4,
     "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1487.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1487"
