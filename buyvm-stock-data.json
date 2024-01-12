@@ -834,6 +834,14 @@
   {
     "available": true,
     "grp_location": "Las Vegas",
+    "grp_type": "Webhosting",
+    "name": "PROVISION TEST",
+    "pid": "1531",
+    "price": "$1.50 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": "Las Vegas",
     "grp_type": "Reseller Webhosting",
     "name": "LV BuyShared-Reseller 20G (cPanel)",
     "pid": "1344",
