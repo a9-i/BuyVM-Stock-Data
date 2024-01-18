@@ -418,8 +418,8 @@
   "1480": {
     "id": 1480,
     "name": "NY Block Storage Slab - 6TB",
-    "quantity": 1,
-    "hasStock": true,
+    "quantity": 0,
+    "hasStock": false,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1480.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1480"
   },
@@ -498,7 +498,7 @@
   "1491": {
     "id": 1491,
     "name": "LU Block Storage Slab - 4TB",
-    "quantity": 3,
+    "quantity": 2,
     "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1491.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1491"
