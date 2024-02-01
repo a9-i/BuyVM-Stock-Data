@@ -56,7 +56,7 @@
     "price": "$60.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "Las Vegas",
     "grp_type": "AMD RYZEN KVM",
     "name": "LV RYZEN KVM 20GB",
@@ -64,7 +64,7 @@
     "price": "$75.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "Las Vegas",
     "grp_type": "AMD RYZEN KVM",
     "name": "LV RYZEN KVM 24GB",
@@ -72,7 +72,7 @@
     "price": "$90.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "Las Vegas",
     "grp_type": "AMD RYZEN KVM",
     "name": "LV RYZEN KVM 28GB",
@@ -80,7 +80,7 @@
     "price": "$105.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "Las Vegas",
     "grp_type": "AMD RYZEN KVM",
     "name": "LV RYZEN KVM 32GB",
@@ -128,7 +128,7 @@
     "price": "$30.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "New York",
     "grp_type": "AMD RYZEN KVM",
     "name": "NY RYZEN KVM 12GB",
@@ -136,7 +136,7 @@
     "price": "$45.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "New York",
     "grp_type": "AMD RYZEN KVM",
     "name": "NY RYZEN KVM 16GB",
@@ -192,7 +192,7 @@
     "price": "$3.50 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "Miami",
     "grp_type": "AMD RYZEN KVM",
     "name": "MIA RYZEN KVM 2GB",
@@ -200,7 +200,7 @@
     "price": "$7.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "Miami",
     "grp_type": "AMD RYZEN KVM",
     "name": "MIA RYZEN KVM 4GB",
@@ -224,7 +224,7 @@
     "price": "$45.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "Miami",
     "grp_type": "AMD RYZEN KVM",
     "name": "MIA RYZEN KVM 16GB",
