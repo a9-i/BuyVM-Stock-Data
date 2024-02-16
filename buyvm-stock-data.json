@@ -800,7 +800,7 @@
     "price": "$4.00 USD/mo"
   },
   {
-    "available": true,
+    "available": false,
     "grp_location": "Luxembourg",
     "grp_type": "Reseller Webhosting",
     "name": "LU BuyShared-Reseller 125G (DirectAdmin)",
