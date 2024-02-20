@@ -184,7 +184,7 @@
     "price": "$2.00 USD/mo"
   },
   {
-    "available": true,
+    "available": false,
     "grp_location": "Miami",
     "grp_type": "AMD RYZEN KVM",
     "name": "MIA RYZEN KVM 1GB",
@@ -192,7 +192,7 @@
     "price": "$3.50 USD/mo"
   },
   {
-    "available": true,
+    "available": false,
     "grp_location": "Miami",
     "grp_type": "AMD RYZEN KVM",
     "name": "MIA RYZEN KVM 2GB",
