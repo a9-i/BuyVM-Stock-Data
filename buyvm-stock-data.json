@@ -8,7 +8,7 @@
     "price": "$2.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "Las Vegas",
     "grp_type": "AMD RYZEN KVM",
     "name": "LV RYZEN KVM 1GB",
@@ -16,7 +16,7 @@
     "price": "$3.50 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "Las Vegas",
     "grp_type": "AMD RYZEN KVM",
     "name": "LV RYZEN KVM 2GB",
@@ -32,7 +32,7 @@
     "price": "$15.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "Las Vegas",
     "grp_type": "AMD RYZEN KVM",
     "name": "LV RYZEN KVM 8GB",
@@ -40,7 +40,7 @@
     "price": "$30.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "Las Vegas",
     "grp_type": "AMD RYZEN KVM",
     "name": "LV RYZEN KVM 12GB",
@@ -48,7 +48,7 @@
     "price": "$45.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "Las Vegas",
     "grp_type": "AMD RYZEN KVM",
     "name": "LV RYZEN KVM 16GB",
@@ -56,7 +56,7 @@
     "price": "$60.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "Las Vegas",
     "grp_type": "AMD RYZEN KVM",
     "name": "LV RYZEN KVM 20GB",
@@ -64,7 +64,7 @@
     "price": "$75.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "Las Vegas",
     "grp_type": "AMD RYZEN KVM",
     "name": "LV RYZEN KVM 24GB",
@@ -72,7 +72,7 @@
     "price": "$90.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "Las Vegas",
     "grp_type": "AMD RYZEN KVM",
     "name": "LV RYZEN KVM 28GB",
@@ -96,7 +96,7 @@
     "price": "$2.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "New York",
     "grp_type": "AMD RYZEN KVM",
     "name": "NY RYZEN KVM 1GB",
@@ -112,7 +112,7 @@
     "price": "$7.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "New York",
     "grp_type": "AMD RYZEN KVM",
     "name": "NY RYZEN KVM 4GB",
@@ -120,7 +120,7 @@
     "price": "$15.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "New York",
     "grp_type": "AMD RYZEN KVM",
     "name": "NY RYZEN KVM 8GB",
@@ -136,7 +136,7 @@
     "price": "$45.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "New York",
     "grp_type": "AMD RYZEN KVM",
     "name": "NY RYZEN KVM 16GB",
@@ -184,7 +184,7 @@
     "price": "$2.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "Miami",
     "grp_type": "AMD RYZEN KVM",
     "name": "MIA RYZEN KVM 1GB",
@@ -192,7 +192,7 @@
     "price": "$3.50 USD/mo"
   },
   {
-    "available": true,
+    "available": false,
     "grp_location": "Miami",
     "grp_type": "AMD RYZEN KVM",
     "name": "MIA RYZEN KVM 2GB",
@@ -224,7 +224,7 @@
     "price": "$45.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "Miami",
     "grp_type": "AMD RYZEN KVM",
     "name": "MIA RYZEN KVM 16GB",
@@ -272,7 +272,7 @@
     "price": "$2.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "Luxembourg",
     "grp_type": "AMD RYZEN KVM",
     "name": "LU RYZEN KVM 1GB",
@@ -296,7 +296,7 @@
     "price": "$15.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "Luxembourg",
     "grp_type": "AMD RYZEN KVM",
     "name": "LU RYZEN KVM 8GB",
@@ -304,7 +304,7 @@
     "price": "$30.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "Luxembourg",
     "grp_type": "AMD RYZEN KVM",
     "name": "LU RYZEN KVM 12GB",
@@ -320,7 +320,7 @@
     "price": "$60.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "Luxembourg",
     "grp_type": "AMD RYZEN KVM",
     "name": "LU RYZEN KVM 20GB",
@@ -488,7 +488,7 @@
     "price": "$15.00 USD/mo"
   },
   {
-    "available": true,
+    "available": false,
     "grp_location": "New York",
     "grp_type": "Block Storage Slabs",
     "name": "NY Block Storage Slab - 4TB",
