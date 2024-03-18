@@ -610,8 +610,8 @@
   "1507": {
     "id": 1507,
     "name": "MIA RYZEN KVM 20GB",
-    "quantity": 0,
-    "hasStock": false,
+    "quantity": 1,
+    "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1507.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1507"
   },
