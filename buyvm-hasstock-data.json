@@ -226,7 +226,7 @@
   "1431": {
     "id": 1431,
     "name": "LU RYZEN KVM 28GB",
-    "quantity": -1,
+    "quantity": -2,
     "hasStock": false,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1431.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1431"
