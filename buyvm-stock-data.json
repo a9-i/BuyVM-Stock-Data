@@ -544,7 +544,7 @@
     "price": "$50.00 USD/mo"
   },
   {
-    "available": true,
+    "available": false,
     "grp_location": "Miami",
     "grp_type": "Block Storage Slabs",
     "name": "MIA Block Storage Slab - 256GB",
