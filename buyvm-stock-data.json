@@ -120,7 +120,7 @@
     "price": "$15.00 USD/mo"
   },
   {
-    "available": true,
+    "available": false,
     "grp_location": "New York",
     "grp_type": "AMD RYZEN KVM",
     "name": "NY RYZEN KVM 8GB",
@@ -648,7 +648,7 @@
     "price": "$1.25 USD/mo"
   },
   {
-    "available": true,
+    "available": false,
     "grp_location": "Luxembourg",
     "grp_type": "Block Storage Slabs",
     "name": "LU Block Storage Slab - 512GB",
