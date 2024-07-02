@@ -8,7 +8,7 @@
     "price": "$2.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "Las Vegas",
     "grp_type": "AMD RYZEN KVM",
     "name": "LV RYZEN KVM 1GB",
@@ -96,7 +96,7 @@
     "price": "$2.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "New York",
     "grp_type": "AMD RYZEN KVM",
     "name": "NY RYZEN KVM 1GB",
@@ -112,7 +112,7 @@
     "price": "$7.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "New York",
     "grp_type": "AMD RYZEN KVM",
     "name": "NY RYZEN KVM 4GB",
@@ -280,7 +280,7 @@
     "price": "$3.50 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "Luxembourg",
     "grp_type": "AMD RYZEN KVM",
     "name": "LU RYZEN KVM 2GB",
@@ -288,7 +288,7 @@
     "price": "$7.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "Luxembourg",
     "grp_type": "AMD RYZEN KVM",
     "name": "LU RYZEN KVM 4GB",
@@ -296,7 +296,7 @@
     "price": "$15.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "Luxembourg",
     "grp_type": "AMD RYZEN KVM",
     "name": "LU RYZEN KVM 8GB",
@@ -312,7 +312,7 @@
     "price": "$45.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "Luxembourg",
     "grp_type": "AMD RYZEN KVM",
     "name": "LU RYZEN KVM 16GB",
@@ -656,7 +656,7 @@
     "price": "$2.50 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "Luxembourg",
     "grp_type": "Block Storage Slabs",
     "name": "LU Block Storage Slab - 1TB",
@@ -806,5 +806,21 @@
     "name": "DDOS Protected BGP Session",
     "pid": "1498",
     "price": "$50.00 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": null,
+    "grp_type": "WHMCS Licenses",
+    "name": "WHMCS Starter License",
+    "pid": "1533",
+    "price": "$8.29 USD/mo"
+  },
+  {
+    "available": false,
+    "grp_location": null,
+    "grp_type": "WHMCS Licenses",
+    "name": "WHMCS Plus License",
+    "pid": "1534",
+    "price": "$12.49 USD/mo"
   }
 ]
