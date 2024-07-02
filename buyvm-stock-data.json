@@ -8,7 +8,7 @@
     "price": "$2.00 USD/mo"
   },
   {
-    "available": true,
+    "available": false,
     "grp_location": "Las Vegas",
     "grp_type": "AMD RYZEN KVM",
     "name": "LV RYZEN KVM 1GB",
@@ -808,7 +808,7 @@
     "price": "$50.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": null,
     "grp_type": "WHMCS Licenses",
     "name": "WHMCS Starter License",
@@ -816,11 +816,27 @@
     "price": "$8.29 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": null,
     "grp_type": "WHMCS Licenses",
     "name": "WHMCS Plus License",
     "pid": "1534",
     "price": "$12.49 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": null,
+    "grp_type": "WHMCS Licenses",
+    "name": "WHMCS Professional License",
+    "pid": "1535",
+    "price": "$27.19 USD/mo"
+  },
+  {
+    "available": true,
+    "grp_location": null,
+    "grp_type": "WHMCS Licenses",
+    "name": "WHMCS Business 1000 License",
+    "pid": "1536",
+    "price": "$46.00 USD/mo"
   }
 ]
