@@ -2,7 +2,7 @@
   "1402": {
     "id": 1402,
     "name": "LV RYZEN KVM 2GB",
-    "quantity": 18,
+    "quantity": 16,
     "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1402.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1402"
@@ -98,7 +98,7 @@
   "1415": {
     "id": 1415,
     "name": "NY RYZEN KVM 4GB",
-    "quantity": 2,
+    "quantity": 1,
     "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1415.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1415"
@@ -378,7 +378,7 @@
   "1475": {
     "id": 1475,
     "name": "NY Block Storage Slab - 1TB",
-    "quantity": 2,
+    "quantity": 1,
     "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1475.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1475"
@@ -474,7 +474,7 @@
   "1488": {
     "id": 1488,
     "name": "LU Block Storage Slab - 1TB",
-    "quantity": 2,
+    "quantity": 1,
     "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1488.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1488"
