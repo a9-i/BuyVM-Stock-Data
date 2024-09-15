@@ -90,7 +90,7 @@
   "1414": {
     "id": 1414,
     "name": "NY RYZEN KVM 2GB",
-    "quantity": 0,
+    "quantity": -1,
     "hasStock": false,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1414.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1414"
@@ -202,8 +202,8 @@
   "1428": {
     "id": 1428,
     "name": "LU RYZEN KVM 16GB",
-    "quantity": 1,
-    "hasStock": true,
+    "quantity": 0,
+    "hasStock": false,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1428.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1428"
   },
