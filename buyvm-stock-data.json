@@ -192,7 +192,7 @@
     "price": "$3.50 USD/mo"
   },
   {
-    "available": true,
+    "available": false,
     "grp_location": "Miami",
     "grp_type": "AMD RYZEN KVM",
     "name": "MIA RYZEN KVM 2GB",
@@ -296,7 +296,7 @@
     "price": "$15.00 USD/mo"
   },
   {
-    "available": true,
+    "available": false,
     "grp_location": "Luxembourg",
     "grp_type": "AMD RYZEN KVM",
     "name": "LU RYZEN KVM 8GB",
@@ -544,7 +544,7 @@
     "price": "$50.00 USD/mo"
   },
   {
-    "available": true,
+    "available": false,
     "grp_location": "Miami",
     "grp_type": "Block Storage Slabs",
     "name": "MIA Block Storage Slab - 256GB",
