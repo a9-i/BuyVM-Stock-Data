@@ -8,7 +8,7 @@
     "price": "$2.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "Las Vegas",
     "grp_type": "AMD RYZEN KVM",
     "name": "LV RYZEN KVM 1GB",
@@ -56,7 +56,7 @@
     "price": "$60.00 USD/mo"
   },
   {
-    "available": true,
+    "available": false,
     "grp_location": "Las Vegas",
     "grp_type": "AMD RYZEN KVM",
     "name": "LV RYZEN KVM 20GB",
@@ -64,7 +64,7 @@
     "price": "$75.00 USD/mo"
   },
   {
-    "available": true,
+    "available": false,
     "grp_location": "Las Vegas",
     "grp_type": "AMD RYZEN KVM",
     "name": "LV RYZEN KVM 24GB",
@@ -72,7 +72,7 @@
     "price": "$90.00 USD/mo"
   },
   {
-    "available": true,
+    "available": false,
     "grp_location": "Las Vegas",
     "grp_type": "AMD RYZEN KVM",
     "name": "LV RYZEN KVM 28GB",
@@ -104,7 +104,7 @@
     "price": "$3.50 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "New York",
     "grp_type": "AMD RYZEN KVM",
     "name": "NY RYZEN KVM 2GB",
@@ -128,7 +128,7 @@
     "price": "$30.00 USD/mo"
   },
   {
-    "available": true,
+    "available": false,
     "grp_location": "New York",
     "grp_type": "AMD RYZEN KVM",
     "name": "NY RYZEN KVM 12GB",
@@ -136,7 +136,7 @@
     "price": "$45.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "New York",
     "grp_type": "AMD RYZEN KVM",
     "name": "NY RYZEN KVM 16GB",
@@ -168,7 +168,7 @@
     "price": "$105.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "New York",
     "grp_type": "AMD RYZEN KVM",
     "name": "NY RYZEN KVM 32GB",
@@ -360,7 +360,7 @@
     "price": "$1.25 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "Las Vegas",
     "grp_type": "Block Storage Slabs",
     "name": "LV Block Storage Slab - 512GB",
@@ -368,7 +368,7 @@
     "price": "$2.50 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "Las Vegas",
     "grp_type": "Block Storage Slabs",
     "name": "LV Block Storage Slab - 1TB",
@@ -376,7 +376,7 @@
     "price": "$5.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "Las Vegas",
     "grp_type": "Block Storage Slabs",
     "name": "LV Block Storage Slab - 2TB",
@@ -488,7 +488,7 @@
     "price": "$15.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "New York",
     "grp_type": "Block Storage Slabs",
     "name": "NY Block Storage Slab - 4TB",
