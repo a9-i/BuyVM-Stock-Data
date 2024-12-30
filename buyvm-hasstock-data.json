@@ -266,7 +266,7 @@
   "1461": {
     "id": 1461,
     "name": "LV Block Storage Slab - 256GB",
-    "quantity": 6,
+    "quantity": 5,
     "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1461.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1461"
@@ -306,7 +306,7 @@
   "1466": {
     "id": 1466,
     "name": "LV Block Storage Slab - 4TB",
-    "quantity": 3,
+    "quantity": 2,
     "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1466.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1466"
