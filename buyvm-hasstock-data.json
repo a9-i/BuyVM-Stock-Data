@@ -234,8 +234,8 @@
   "1432": {
     "id": 1432,
     "name": "LU RYZEN KVM 32GB",
-    "quantity": 0,
-    "hasStock": false,
+    "quantity": 1,
+    "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1432.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1432"
   },
