@@ -104,7 +104,7 @@
     "price": "$3.50 USD/mo"
   },
   {
-    "available": true,
+    "available": false,
     "grp_location": "New York",
     "grp_type": "AMD RYZEN KVM",
     "name": "NY RYZEN KVM 2GB",
@@ -368,7 +368,7 @@
     "price": "$2.50 USD/mo"
   },
   {
-    "available": true,
+    "available": false,
     "grp_location": "Las Vegas",
     "grp_type": "Block Storage Slabs",
     "name": "LV Block Storage Slab - 1TB",
