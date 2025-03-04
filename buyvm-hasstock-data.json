@@ -154,8 +154,8 @@
   "1422": {
     "id": 1422,
     "name": "NY RYZEN KVM 32GB",
-    "quantity": 1,
-    "hasStock": true,
+    "quantity": 0,
+    "hasStock": false,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1422.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1422"
   },
@@ -386,8 +386,8 @@
   "1476": {
     "id": 1476,
     "name": "NY Block Storage Slab - 2TB",
-    "quantity": 1,
-    "hasStock": true,
+    "quantity": 0,
+    "hasStock": false,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1476.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1476"
   },
@@ -578,8 +578,8 @@
   "1503": {
     "id": 1503,
     "name": "MIA RYZEN KVM 4GB",
-    "quantity": 1,
-    "hasStock": true,
+    "quantity": 0,
+    "hasStock": false,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1503.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1503"
   },
