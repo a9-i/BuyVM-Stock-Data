@@ -530,8 +530,8 @@
   "1495": {
     "id": 1495,
     "name": "LU Block Storage Slab - 8TB",
-    "quantity": 1,
-    "hasStock": true,
+    "quantity": 0,
+    "hasStock": false,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1495.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1495"
   },
