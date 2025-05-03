@@ -536,7 +536,7 @@
     "price": "$45.00 USD/mo"
   },
   {
-    "available": true,
+    "available": false,
     "grp_location": "New York",
     "grp_type": "Block Storage Slabs",
     "name": "NY Block Storage Slab - 10TB",
