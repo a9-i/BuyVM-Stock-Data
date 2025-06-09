@@ -2,8 +2,8 @@
   "1402": {
     "id": 1402,
     "name": "LV RYZEN KVM 2GB",
-    "quantity": 0,
-    "hasStock": false,
+    "quantity": 2,
+    "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1402.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1402"
   },
@@ -18,8 +18,8 @@
   "1404": {
     "id": 1404,
     "name": "LV RYZEN KVM 8GB",
-    "quantity": 0,
-    "hasStock": false,
+    "quantity": 2,
+    "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1404.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1404"
   },
@@ -50,8 +50,8 @@
   "1408": {
     "id": 1408,
     "name": "LV RYZEN KVM 24GB",
-    "quantity": 0,
-    "hasStock": false,
+    "quantity": 1,
+    "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1408.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1408"
   },
@@ -74,8 +74,8 @@
   "1411": {
     "id": 1411,
     "name": "LV RYZEN KVM 1GB",
-    "quantity": 0,
-    "hasStock": false,
+    "quantity": 1,
+    "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1411.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1411"
   },
@@ -106,8 +106,8 @@
   "1416": {
     "id": 1416,
     "name": "NY RYZEN KVM 8GB",
-    "quantity": 0,
-    "hasStock": false,
+    "quantity": 1,
+    "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1416.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1416"
   },
@@ -122,8 +122,8 @@
   "1418": {
     "id": 1418,
     "name": "NY RYZEN KVM 16GB",
-    "quantity": 0,
-    "hasStock": false,
+    "quantity": 1,
+    "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1418.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1418"
   },
@@ -282,8 +282,8 @@
   "1463": {
     "id": 1463,
     "name": "LV Block Storage Slab - 1TB",
-    "quantity": 0,
-    "hasStock": false,
+    "quantity": 1,
+    "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1463.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1463"
   },
@@ -402,8 +402,8 @@
   "1478": {
     "id": 1478,
     "name": "NY Block Storage Slab - 4TB",
-    "quantity": 0,
-    "hasStock": false,
+    "quantity": 1,
+    "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1478.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1478"
   },
