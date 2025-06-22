@@ -306,7 +306,7 @@
   "1466": {
     "id": 1466,
     "name": "LV Block Storage Slab - 4TB",
-    "quantity": 2,
+    "quantity": 1,
     "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1466.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1466"
