@@ -34,16 +34,16 @@
   "1406": {
     "id": 1406,
     "name": "LV RYZEN KVM 16GB",
-    "quantity": 1,
-    "hasStock": true,
+    "quantity": 0,
+    "hasStock": false,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1406.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1406"
   },
   "1407": {
     "id": 1407,
     "name": "LV RYZEN KVM 20GB",
-    "quantity": 1,
-    "hasStock": true,
+    "quantity": 0,
+    "hasStock": false,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1407.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1407"
   },
@@ -602,8 +602,8 @@
   "1506": {
     "id": 1506,
     "name": "MIA RYZEN KVM 16GB",
-    "quantity": 1,
-    "hasStock": true,
+    "quantity": 0,
+    "hasStock": false,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1506.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1506"
   },
