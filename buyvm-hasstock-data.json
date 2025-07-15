@@ -26,8 +26,8 @@
   "1405": {
     "id": 1405,
     "name": "LV RYZEN KVM 12GB",
-    "quantity": 1,
-    "hasStock": true,
+    "quantity": 0,
+    "hasStock": false,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1405.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1405"
   },
@@ -298,8 +298,8 @@
   "1465": {
     "id": 1465,
     "name": "LV Block Storage Slab - 3TB",
-    "quantity": 1,
-    "hasStock": true,
+    "quantity": 0,
+    "hasStock": false,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1465.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1465"
   },
