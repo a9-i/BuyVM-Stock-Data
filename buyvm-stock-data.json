@@ -265,89 +265,89 @@
   },
   {
     "available": false,
-    "grp_location": "Luxembourg",
+    "grp_location": "Switzerland",
     "grp_type": "AMD RYZEN KVM",
-    "name": "LU RYZEN KVM 512MB",
+    "name": "CH RYZEN KVM 512MB",
     "pid": "1441",
     "price": "$2.00 USD/mo"
   },
   {
     "available": false,
-    "grp_location": "Luxembourg",
+    "grp_location": "Switzerland",
     "grp_type": "AMD RYZEN KVM",
-    "name": "LU RYZEN KVM 1GB",
+    "name": "CH RYZEN KVM 1GB",
     "pid": "1423",
     "price": "$3.50 USD/mo"
   },
   {
-    "available": true,
-    "grp_location": "Luxembourg",
+    "available": false,
+    "grp_location": "Switzerland",
     "grp_type": "AMD RYZEN KVM",
-    "name": "LU RYZEN KVM 2GB",
+    "name": "CH RYZEN KVM 2GB",
     "pid": "1424",
     "price": "$7.00 USD/mo"
   },
   {
     "available": true,
-    "grp_location": "Luxembourg",
+    "grp_location": "Switzerland",
     "grp_type": "AMD RYZEN KVM",
-    "name": "LU RYZEN KVM 4GB",
+    "name": "CH RYZEN KVM 4GB",
     "pid": "1425",
     "price": "$15.00 USD/mo"
   },
   {
-    "available": true,
-    "grp_location": "Luxembourg",
+    "available": false,
+    "grp_location": "Switzerland",
     "grp_type": "AMD RYZEN KVM",
-    "name": "LU RYZEN KVM 8GB",
+    "name": "CH RYZEN KVM 8GB",
     "pid": "1426",
     "price": "$30.00 USD/mo"
   },
   {
     "available": true,
-    "grp_location": "Luxembourg",
+    "grp_location": "Switzerland",
     "grp_type": "AMD RYZEN KVM",
-    "name": "LU RYZEN KVM 12GB",
+    "name": "CH RYZEN KVM 12GB",
     "pid": "1427",
     "price": "$45.00 USD/mo"
   },
   {
     "available": true,
-    "grp_location": "Luxembourg",
+    "grp_location": "Switzerland",
     "grp_type": "AMD RYZEN KVM",
-    "name": "LU RYZEN KVM 16GB",
+    "name": "CH RYZEN KVM 16GB",
     "pid": "1428",
     "price": "$60.00 USD/mo"
   },
   {
     "available": false,
-    "grp_location": "Luxembourg",
+    "grp_location": "Switzerland",
     "grp_type": "AMD RYZEN KVM",
-    "name": "LU RYZEN KVM 20GB",
+    "name": "CH RYZEN KVM 20GB",
     "pid": "1429",
     "price": "$75.00 USD/mo"
   },
   {
     "available": true,
-    "grp_location": "Luxembourg",
+    "grp_location": "Switzerland",
     "grp_type": "AMD RYZEN KVM",
-    "name": "LU RYZEN KVM 24GB",
+    "name": "CH RYZEN KVM 24GB",
     "pid": "1430",
     "price": "$90.00 USD/mo"
   },
   {
     "available": true,
-    "grp_location": "Luxembourg",
+    "grp_location": "Switzerland",
     "grp_type": "AMD RYZEN KVM",
-    "name": "LU RYZEN KVM 28GB",
+    "name": "CH RYZEN KVM 28GB",
     "pid": "1431",
     "price": "$105.00 USD/mo"
   },
   {
     "available": true,
-    "grp_location": "Luxembourg",
+    "grp_location": "Switzerland",
     "grp_type": "AMD RYZEN KVM",
-    "name": "LU RYZEN KVM 32GB",
+    "name": "CH RYZEN KVM 32GB",
     "pid": "1432",
     "price": "$120.00 USD/mo"
   },
@@ -641,97 +641,97 @@
   },
   {
     "available": false,
-    "grp_location": "Luxembourg",
+    "grp_location": "Switzerland",
     "grp_type": "Block Storage Slabs",
-    "name": "LU Block Storage Slab - 256GB",
+    "name": "CH Block Storage Slab - 256GB",
     "pid": "1486",
     "price": "$1.25 USD/mo"
   },
   {
     "available": false,
-    "grp_location": "Luxembourg",
+    "grp_location": "Switzerland",
     "grp_type": "Block Storage Slabs",
-    "name": "LU Block Storage Slab - 512GB",
+    "name": "CH Block Storage Slab - 512GB",
     "pid": "1487",
     "price": "$2.50 USD/mo"
   },
   {
     "available": false,
-    "grp_location": "Luxembourg",
+    "grp_location": "Switzerland",
     "grp_type": "Block Storage Slabs",
-    "name": "LU Block Storage Slab - 1TB",
+    "name": "CH Block Storage Slab - 1TB",
     "pid": "1488",
     "price": "$5.00 USD/mo"
   },
   {
     "available": true,
-    "grp_location": "Luxembourg",
+    "grp_location": "Switzerland",
     "grp_type": "Block Storage Slabs",
-    "name": "LU Block Storage Slab - 2TB",
+    "name": "CH Block Storage Slab - 2TB",
     "pid": "1489",
     "price": "$10.00 USD/mo"
   },
   {
     "available": true,
-    "grp_location": "Luxembourg",
+    "grp_location": "Switzerland",
     "grp_type": "Block Storage Slabs",
-    "name": "LU Block Storage Slab - 3TB",
+    "name": "CH Block Storage Slab - 3TB",
     "pid": "1490",
     "price": "$15.00 USD/mo"
   },
   {
     "available": true,
-    "grp_location": "Luxembourg",
+    "grp_location": "Switzerland",
     "grp_type": "Block Storage Slabs",
-    "name": "LU Block Storage Slab - 4TB",
+    "name": "CH Block Storage Slab - 4TB",
     "pid": "1491",
     "price": "$20.00 USD/mo"
   },
   {
     "available": true,
-    "grp_location": "Luxembourg",
+    "grp_location": "Switzerland",
     "grp_type": "Block Storage Slabs",
-    "name": "LU Block Storage Slab - 5TB",
+    "name": "CH Block Storage Slab - 5TB",
     "pid": "1492",
     "price": "$25.00 USD/mo"
   },
   {
     "available": true,
-    "grp_location": "Luxembourg",
+    "grp_location": "Switzerland",
     "grp_type": "Block Storage Slabs",
-    "name": "LU Block Storage Slab - 6TB",
+    "name": "CH Block Storage Slab - 6TB",
     "pid": "1493",
     "price": "$30.00 USD/mo"
   },
   {
     "available": true,
-    "grp_location": "Luxembourg",
+    "grp_location": "Switzerland",
     "grp_type": "Block Storage Slabs",
-    "name": "LU Block Storage Slab - 7TB",
+    "name": "CH Block Storage Slab - 7TB",
     "pid": "1494",
     "price": "$35.00 USD/mo"
   },
   {
     "available": true,
-    "grp_location": "Luxembourg",
+    "grp_location": "Switzerland",
     "grp_type": "Block Storage Slabs",
-    "name": "LU Block Storage Slab - 8TB",
+    "name": "CH Block Storage Slab - 8TB",
     "pid": "1495",
     "price": "$40.00 USD/mo"
   },
   {
     "available": true,
-    "grp_location": "Luxembourg",
+    "grp_location": "Switzerland",
     "grp_type": "Block Storage Slabs",
-    "name": "LU Block Storage Slab - 9TB",
+    "name": "CH Block Storage Slab - 9TB",
     "pid": "1496",
     "price": "$45.00 USD/mo"
   },
   {
     "available": false,
-    "grp_location": "Luxembourg",
+    "grp_location": "Switzerland",
     "grp_type": "Block Storage Slabs",
-    "name": "LU Block Storage Slab - 10TB",
+    "name": "CH Block Storage Slab - 10TB",
     "pid": "1497",
     "price": "$50.00 USD/mo"
   },

@@ -18,7 +18,7 @@
   "1404": {
     "id": 1404,
     "name": "LV RYZEN KVM 8GB",
-    "quantity": 3,
+    "quantity": 2,
     "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1404.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1404"
@@ -161,7 +161,7 @@
   },
   "1423": {
     "id": 1423,
-    "name": "LU RYZEN KVM 1GB",
+    "name": "CH RYZEN KVM 1GB",
     "quantity": 0,
     "hasStock": false,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1423.json",
@@ -169,7 +169,7 @@
   },
   "1424": {
     "id": 1424,
-    "name": "LU RYZEN KVM 2GB",
+    "name": "CH RYZEN KVM 2GB",
     "quantity": 0,
     "hasStock": false,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1424.json",
@@ -177,7 +177,7 @@
   },
   "1425": {
     "id": 1425,
-    "name": "LU RYZEN KVM 4GB",
+    "name": "CH RYZEN KVM 4GB",
     "quantity": 2,
     "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1425.json",
@@ -185,15 +185,15 @@
   },
   "1426": {
     "id": 1426,
-    "name": "LU RYZEN KVM 8GB",
-    "quantity": 1,
-    "hasStock": true,
+    "name": "CH RYZEN KVM 8GB",
+    "quantity": 0,
+    "hasStock": false,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1426.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1426"
   },
   "1427": {
     "id": 1427,
-    "name": "LU RYZEN KVM 12GB",
+    "name": "CH RYZEN KVM 12GB",
     "quantity": 1,
     "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1427.json",
@@ -201,7 +201,7 @@
   },
   "1428": {
     "id": 1428,
-    "name": "LU RYZEN KVM 16GB",
+    "name": "CH RYZEN KVM 16GB",
     "quantity": 2,
     "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1428.json",
@@ -209,7 +209,7 @@
   },
   "1429": {
     "id": 1429,
-    "name": "LU RYZEN KVM 20GB",
+    "name": "CH RYZEN KVM 20GB",
     "quantity": 0,
     "hasStock": false,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1429.json",
@@ -217,7 +217,7 @@
   },
   "1430": {
     "id": 1430,
-    "name": "LU RYZEN KVM 24GB",
+    "name": "CH RYZEN KVM 24GB",
     "quantity": 1,
     "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1430.json",
@@ -225,7 +225,7 @@
   },
   "1431": {
     "id": 1431,
-    "name": "LU RYZEN KVM 28GB",
+    "name": "CH RYZEN KVM 28GB",
     "quantity": 1,
     "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1431.json",
@@ -233,7 +233,7 @@
   },
   "1432": {
     "id": 1432,
-    "name": "LU RYZEN KVM 32GB",
+    "name": "CH RYZEN KVM 32GB",
     "quantity": 4,
     "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1432.json",
@@ -257,7 +257,7 @@
   },
   "1441": {
     "id": 1441,
-    "name": "LU RYZEN KVM 512MB",
+    "name": "CH RYZEN KVM 512MB",
     "quantity": 0,
     "hasStock": false,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1441.json",
@@ -370,7 +370,7 @@
   "1474": {
     "id": 1474,
     "name": "NY Block Storage Slab - 512GB",
-    "quantity": 3,
+    "quantity": 1,
     "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1474.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1474"
@@ -457,7 +457,7 @@
   },
   "1486": {
     "id": 1486,
-    "name": "LU Block Storage Slab - 256GB",
+    "name": "CH Block Storage Slab - 256GB",
     "quantity": 0,
     "hasStock": false,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1486.json",
@@ -465,7 +465,7 @@
   },
   "1487": {
     "id": 1487,
-    "name": "LU Block Storage Slab - 512GB",
+    "name": "CH Block Storage Slab - 512GB",
     "quantity": 0,
     "hasStock": false,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1487.json",
@@ -473,7 +473,7 @@
   },
   "1488": {
     "id": 1488,
-    "name": "LU Block Storage Slab - 1TB",
+    "name": "CH Block Storage Slab - 1TB",
     "quantity": 0,
     "hasStock": false,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1488.json",
@@ -481,7 +481,7 @@
   },
   "1489": {
     "id": 1489,
-    "name": "LU Block Storage Slab - 2TB",
+    "name": "CH Block Storage Slab - 2TB",
     "quantity": 2,
     "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1489.json",
@@ -489,7 +489,7 @@
   },
   "1490": {
     "id": 1490,
-    "name": "LU Block Storage Slab - 3TB",
+    "name": "CH Block Storage Slab - 3TB",
     "quantity": 1,
     "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1490.json",
@@ -497,7 +497,7 @@
   },
   "1491": {
     "id": 1491,
-    "name": "LU Block Storage Slab - 4TB",
+    "name": "CH Block Storage Slab - 4TB",
     "quantity": 1,
     "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1491.json",
@@ -505,7 +505,7 @@
   },
   "1492": {
     "id": 1492,
-    "name": "LU Block Storage Slab - 5TB",
+    "name": "CH Block Storage Slab - 5TB",
     "quantity": 1,
     "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1492.json",
@@ -513,7 +513,7 @@
   },
   "1493": {
     "id": 1493,
-    "name": "LU Block Storage Slab - 6TB",
+    "name": "CH Block Storage Slab - 6TB",
     "quantity": 1,
     "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1493.json",
@@ -521,7 +521,7 @@
   },
   "1494": {
     "id": 1494,
-    "name": "LU Block Storage Slab - 7TB",
+    "name": "CH Block Storage Slab - 7TB",
     "quantity": 1,
     "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1494.json",
@@ -529,7 +529,7 @@
   },
   "1495": {
     "id": 1495,
-    "name": "LU Block Storage Slab - 8TB",
+    "name": "CH Block Storage Slab - 8TB",
     "quantity": 2,
     "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1495.json",
@@ -537,7 +537,7 @@
   },
   "1496": {
     "id": 1496,
-    "name": "LU Block Storage Slab - 9TB",
+    "name": "CH Block Storage Slab - 9TB",
     "quantity": 1,
     "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1496.json",
@@ -545,7 +545,7 @@
   },
   "1497": {
     "id": 1497,
-    "name": "LU Block Storage Slab - 10TB",
+    "name": "CH Block Storage Slab - 10TB",
     "quantity": 0,
     "hasStock": false,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1497.json",
