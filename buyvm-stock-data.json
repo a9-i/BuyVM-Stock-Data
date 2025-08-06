@@ -72,7 +72,7 @@
     "price": "$90.00 USD/mo"
   },
   {
-    "available": true,
+    "available": false,
     "grp_location": "Las Vegas",
     "grp_type": "AMD RYZEN KVM",
     "name": "LV RYZEN KVM 28GB",
