@@ -104,7 +104,7 @@
     "price": "$3.50 USD/mo"
   },
   {
-    "available": true,
+    "available": false,
     "grp_location": "New York",
     "grp_type": "AMD RYZEN KVM",
     "name": "NY RYZEN KVM 2GB",
@@ -280,7 +280,7 @@
     "price": "$3.50 USD/mo"
   },
   {
-    "available": true,
+    "available": false,
     "grp_location": "Switzerland",
     "grp_type": "AMD RYZEN KVM",
     "name": "CH RYZEN KVM 2GB",
@@ -664,7 +664,7 @@
     "price": "$5.00 USD/mo"
   },
   {
-    "available": true,
+    "available": false,
     "grp_location": "Switzerland",
     "grp_type": "Block Storage Slabs",
     "name": "CH Block Storage Slab - 2TB",
