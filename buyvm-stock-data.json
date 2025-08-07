@@ -680,7 +680,7 @@
     "price": "$15.00 USD/mo"
   },
   {
-    "available": true,
+    "available": false,
     "grp_location": "Switzerland",
     "grp_type": "Block Storage Slabs",
     "name": "CH Block Storage Slab - 4TB",
