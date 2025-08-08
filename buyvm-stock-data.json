@@ -24,7 +24,7 @@
     "price": "$7.00 USD/mo"
   },
   {
-    "available": true,
+    "available": false,
     "grp_location": "Las Vegas",
     "grp_type": "AMD RYZEN KVM",
     "name": "LV RYZEN KVM 4GB",
@@ -320,7 +320,7 @@
     "price": "$60.00 USD/mo"
   },
   {
-    "available": true,
+    "available": false,
     "grp_location": "Switzerland",
     "grp_type": "AMD RYZEN KVM",
     "name": "CH RYZEN KVM 20GB",
