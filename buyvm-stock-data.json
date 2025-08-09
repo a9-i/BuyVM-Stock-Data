@@ -208,7 +208,7 @@
     "price": "$15.00 USD/mo"
   },
   {
-    "available": true,
+    "available": false,
     "grp_location": "Miami",
     "grp_type": "AMD RYZEN KVM",
     "name": "MIA RYZEN KVM 8GB",
@@ -296,7 +296,7 @@
     "price": "$15.00 USD/mo"
   },
   {
-    "available": false,
+    "available": true,
     "grp_location": "Switzerland",
     "grp_type": "AMD RYZEN KVM",
     "name": "CH RYZEN KVM 8GB",
