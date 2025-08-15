@@ -170,7 +170,7 @@
   "1424": {
     "id": 1424,
     "name": "CH RYZEN KVM 2GB",
-    "quantity": 18,
+    "quantity": 16,
     "hasStock": true,
     "apiUrl": "https://buyvm.hasstock.net/api/package/1424.json",
     "link": "https://my.frantech.ca/aff.php?aff=1029&pid=1424"
